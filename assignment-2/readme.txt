@@ -25,3 +25,7 @@ seem overkill based on the end result, even though the 3% increase has a much mo
 
 It maybe does not fall into deceptive, but definitely each visualization I think  may influence the viewer's perception of safety differently,
 and I perceive the first one as more honest and informative for the decision at hand.
+
+*I used an LLM to derive the Vega Lite JSON based on this description and the data. I then tweaked it slightly to adjust the styles manually.*
+
+Data sources: https://github.com/saulshanabrook/uw-cse442-data-visualization/tree/main/assignment-2/data

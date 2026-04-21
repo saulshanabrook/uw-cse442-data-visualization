@@ -1,0 +1,389 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "width": 820,
+  "height": 460,
+  "title": {
+    "text": "Housing Co-op Replacement Reserve Funding Under Annual Rent Increase Scenarios",
+    "anchor": "start"
+  },
+  "layer": [
+    {
+      "data": {
+        "url": "https://saulshanabrook.github.io/uw-cse442-data-visualization/assignment-2/data/Capital%20Improvements%20Schedule%202026%20-%20Prediction%20-%202%25.csv",
+        "format": {
+          "type": "csv"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "'2%'",
+          "as": "rent_increase"
+        },
+        {
+          "calculate": "toNumber(datum.Year)",
+          "as": "year"
+        },
+        {
+          "calculate": "toNumber(replace(datum['% Funded'], '%', '')) / 100",
+          "as": "funded_ratio"
+        }
+      ],
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2.6
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "title": "Year",
+          "scale": {
+            "domain": [
+              2026,
+              2055
+            ]
+          },
+          "axis": {
+            "format": "d"
+          }
+        },
+        "y": {
+          "field": "funded_ratio",
+          "type": "quantitative",
+          "title": "Percent funded",
+          "scale": {
+            "zero": false
+          },
+          "axis": {
+            "format": ".0%"
+          }
+        },
+        "color": {
+          "field": "rent_increase",
+          "type": "nominal",
+          "title": "Rent increase",
+          "scale": {
+            "domain": [
+              "2%",
+              "3%",
+              "4%",
+              "5%"
+            ],
+            "range": [
+              "#c6dbef",
+              "#6baed6",
+              "#2171b5",
+              "#08306b"
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "rent_increase",
+            "type": "nominal",
+            "title": "Rent increase"
+          },
+          {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year",
+            "format": "d"
+          },
+          {
+            "field": "funded_ratio",
+            "type": "quantitative",
+            "title": "Percent funded",
+            "format": ".1%"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://saulshanabrook.github.io/uw-cse442-data-visualization/assignment-2/data/Capital%20Improvements%20Schedule%202026%20-%20Prediction%20-%203%25.csv",
+        "format": {
+          "type": "csv"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "'3%'",
+          "as": "rent_increase"
+        },
+        {
+          "calculate": "toNumber(datum.Year)",
+          "as": "year"
+        },
+        {
+          "calculate": "toNumber(replace(datum['% Funded'], '%', '')) / 100",
+          "as": "funded_ratio"
+        }
+      ],
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2.6
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "title": "Year",
+          "scale": {
+            "domain": [
+              2026,
+              2055
+            ]
+          },
+          "axis": {
+            "format": "d"
+          }
+        },
+        "y": {
+          "field": "funded_ratio",
+          "type": "quantitative",
+          "title": "Percent funded",
+          "scale": {
+            "zero": false
+          },
+          "axis": {
+            "format": ".0%"
+          }
+        },
+        "color": {
+          "field": "rent_increase",
+          "type": "nominal",
+          "title": "Rent increase",
+          "scale": {
+            "domain": [
+              "2%",
+              "3%",
+              "4%",
+              "5%"
+            ],
+            "range": [
+              "#c6dbef",
+              "#6baed6",
+              "#2171b5",
+              "#08306b"
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "rent_increase",
+            "type": "nominal",
+            "title": "Rent increase"
+          },
+          {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year",
+            "format": "d"
+          },
+          {
+            "field": "funded_ratio",
+            "type": "quantitative",
+            "title": "Percent funded",
+            "format": ".1%"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://saulshanabrook.github.io/uw-cse442-data-visualization/assignment-2/data/Capital%20Improvements%20Schedule%202026%20-%20Prediction%20-%204%25.csv",
+        "format": {
+          "type": "csv"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "'4%'",
+          "as": "rent_increase"
+        },
+        {
+          "calculate": "toNumber(datum.Year)",
+          "as": "year"
+        },
+        {
+          "calculate": "toNumber(replace(datum['% Funded'], '%', '')) / 100",
+          "as": "funded_ratio"
+        }
+      ],
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2.6
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "title": "Year",
+          "scale": {
+            "domain": [
+              2026,
+              2055
+            ]
+          },
+          "axis": {
+            "format": "d"
+          }
+        },
+        "y": {
+          "field": "funded_ratio",
+          "type": "quantitative",
+          "title": "Percent funded",
+          "scale": {
+            "zero": false
+          },
+          "axis": {
+            "format": ".0%"
+          }
+        },
+        "color": {
+          "field": "rent_increase",
+          "type": "nominal",
+          "title": "Rent increase",
+          "scale": {
+            "domain": [
+              "2%",
+              "3%",
+              "4%",
+              "5%"
+            ],
+            "range": [
+              "#c6dbef",
+              "#6baed6",
+              "#2171b5",
+              "#08306b"
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "rent_increase",
+            "type": "nominal",
+            "title": "Rent increase"
+          },
+          {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year",
+            "format": "d"
+          },
+          {
+            "field": "funded_ratio",
+            "type": "quantitative",
+            "title": "Percent funded",
+            "format": ".1%"
+          }
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://saulshanabrook.github.io/uw-cse442-data-visualization/assignment-2/data/Capital%20Improvements%20Schedule%202026%20-%20Prediction%20-%205%25.csv",
+        "format": {
+          "type": "csv"
+        }
+      },
+      "transform": [
+        {
+          "calculate": "'5%'",
+          "as": "rent_increase"
+        },
+        {
+          "calculate": "toNumber(datum.Year)",
+          "as": "year"
+        },
+        {
+          "calculate": "toNumber(replace(datum['% Funded'], '%', '')) / 100",
+          "as": "funded_ratio"
+        }
+      ],
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2.6
+      },
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "quantitative",
+          "title": "Year",
+          "scale": {
+            "domain": [
+              2026,
+              2055
+            ]
+          },
+          "axis": {
+            "format": "d"
+          }
+        },
+        "y": {
+          "field": "funded_ratio",
+          "type": "quantitative",
+          "title": "Percent funded",
+          "scale": {
+            "zero": false
+          },
+          "axis": {
+            "format": ".0%"
+          }
+        },
+        "color": {
+          "field": "rent_increase",
+          "type": "nominal",
+          "title": "Rent increase",
+          "scale": {
+            "domain": [
+              "2%",
+              "3%",
+              "4%",
+              "5%"
+            ],
+            "range": [
+              "#c6dbef",
+              "#6baed6",
+              "#2171b5",
+              "#08306b"
+            ]
+          }
+        },
+        "tooltip": [
+          {
+            "field": "rent_increase",
+            "type": "nominal",
+            "title": "Rent increase"
+          },
+          {
+            "field": "year",
+            "type": "quantitative",
+            "title": "Year",
+            "format": "d"
+          },
+          {
+            "field": "funded_ratio",
+            "type": "quantitative",
+            "title": "Percent funded",
+            "format": ".1%"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 13
+    },
+    "legend": {
+      "orient": "top",
+      "titleFontSize": 12,
+      "labelFontSize": 12
+    }
+  }
+}

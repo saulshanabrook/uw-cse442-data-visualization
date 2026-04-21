@@ -1,0 +1,2232 @@
+"Notes","County of Residence","County of Residence Code","Month","Month Code",Births
+,"Alameda County, CA","06001","January","1",1244
+,"Alameda County, CA","06001","February","2",1210
+,"Alameda County, CA","06001","March","3",1364
+,"Alameda County, CA","06001","April","4",1272
+,"Alameda County, CA","06001","May","5",1387
+,"Alameda County, CA","06001","June","6",1298
+,"Alameda County, CA","06001","July","7",1412
+,"Alameda County, CA","06001","August","8",1364
+,"Alameda County, CA","06001","September","9",1358
+,"Alameda County, CA","06001","October","10",1408
+,"Alameda County, CA","06001","November","11",1319
+,"Alameda County, CA","06001","December","12",1387
+"Total","Alameda County, CA","06001",,,16023
+,"Butte County, CA","06007","January","1",192
+,"Butte County, CA","06007","February","2",156
+,"Butte County, CA","06007","March","3",158
+,"Butte County, CA","06007","April","4",158
+,"Butte County, CA","06007","May","5",162
+,"Butte County, CA","06007","June","6",161
+,"Butte County, CA","06007","July","7",148
+,"Butte County, CA","06007","August","8",182
+,"Butte County, CA","06007","September","9",183
+,"Butte County, CA","06007","October","10",162
+,"Butte County, CA","06007","November","11",163
+,"Butte County, CA","06007","December","12",161
+"Total","Butte County, CA","06007",,,1986
+,"Contra Costa County, CA","06013","January","1",852
+,"Contra Costa County, CA","06013","February","2",886
+,"Contra Costa County, CA","06013","March","3",878
+,"Contra Costa County, CA","06013","April","4",869
+,"Contra Costa County, CA","06013","May","5",914
+,"Contra Costa County, CA","06013","June","6",920
+,"Contra Costa County, CA","06013","July","7",926
+,"Contra Costa County, CA","06013","August","8",971
+,"Contra Costa County, CA","06013","September","9",939
+,"Contra Costa County, CA","06013","October","10",1013
+,"Contra Costa County, CA","06013","November","11",834
+,"Contra Costa County, CA","06013","December","12",886
+"Total","Contra Costa County, CA","06013",,,10888
+,"El Dorado County, CA","06017","January","1",108
+,"El Dorado County, CA","06017","February","2",132
+,"El Dorado County, CA","06017","March","3",121
+,"El Dorado County, CA","06017","April","4",130
+,"El Dorado County, CA","06017","May","5",136
+,"El Dorado County, CA","06017","June","6",144
+,"El Dorado County, CA","06017","July","7",143
+,"El Dorado County, CA","06017","August","8",136
+,"El Dorado County, CA","06017","September","9",118
+,"El Dorado County, CA","06017","October","10",134
+,"El Dorado County, CA","06017","November","11",114
+,"El Dorado County, CA","06017","December","12",108
+"Total","El Dorado County, CA","06017",,,1524
+,"Fresno County, CA","06019","January","1",1064
+,"Fresno County, CA","06019","February","2",1007
+,"Fresno County, CA","06019","March","3",1086
+,"Fresno County, CA","06019","April","4",1017
+,"Fresno County, CA","06019","May","5",1057
+,"Fresno County, CA","06019","June","6",1094
+,"Fresno County, CA","06019","July","7",1175
+,"Fresno County, CA","06019","August","8",1208
+,"Fresno County, CA","06019","September","9",1157
+,"Fresno County, CA","06019","October","10",1191
+,"Fresno County, CA","06019","November","11",1046
+,"Fresno County, CA","06019","December","12",1135
+"Total","Fresno County, CA","06019",,,13237
+,"Imperial County, CA","06025","January","1",203
+,"Imperial County, CA","06025","February","2",189
+,"Imperial County, CA","06025","March","3",179
+,"Imperial County, CA","06025","April","4",175
+,"Imperial County, CA","06025","May","5",159
+,"Imperial County, CA","06025","June","6",152
+,"Imperial County, CA","06025","July","7",170
+,"Imperial County, CA","06025","August","8",182
+,"Imperial County, CA","06025","September","9",204
+,"Imperial County, CA","06025","October","10",167
+,"Imperial County, CA","06025","November","11",192
+,"Imperial County, CA","06025","December","12",217
+"Total","Imperial County, CA","06025",,,2189
+,"Kern County, CA","06029","January","1",1028
+,"Kern County, CA","06029","February","2",858
+,"Kern County, CA","06029","March","3",993
+,"Kern County, CA","06029","April","4",900
+,"Kern County, CA","06029","May","5",945
+,"Kern County, CA","06029","June","6",966
+,"Kern County, CA","06029","July","7",981
+,"Kern County, CA","06029","August","8",1104
+,"Kern County, CA","06029","September","9",1038
+,"Kern County, CA","06029","October","10",961
+,"Kern County, CA","06029","November","11",986
+,"Kern County, CA","06029","December","12",1003
+"Total","Kern County, CA","06029",,,11763
+,"Kings County, CA","06031","January","1",191
+,"Kings County, CA","06031","February","2",170
+,"Kings County, CA","06031","March","3",170
+,"Kings County, CA","06031","April","4",172
+,"Kings County, CA","06031","May","5",188
+,"Kings County, CA","06031","June","6",171
+,"Kings County, CA","06031","July","7",180
+,"Kings County, CA","06031","August","8",201
+,"Kings County, CA","06031","September","9",210
+,"Kings County, CA","06031","October","10",173
+,"Kings County, CA","06031","November","11",186
+,"Kings County, CA","06031","December","12",165
+"Total","Kings County, CA","06031",,,2177
+,"Los Angeles County, CA","06037","January","1",7345
+,"Los Angeles County, CA","06037","February","2",7045
+,"Los Angeles County, CA","06037","March","3",7475
+,"Los Angeles County, CA","06037","April","4",7123
+,"Los Angeles County, CA","06037","May","5",7352
+,"Los Angeles County, CA","06037","June","6",7183
+,"Los Angeles County, CA","06037","July","7",7748
+,"Los Angeles County, CA","06037","August","8",8243
+,"Los Angeles County, CA","06037","September","9",7802
+,"Los Angeles County, CA","06037","October","10",8031
+,"Los Angeles County, CA","06037","November","11",7498
+,"Los Angeles County, CA","06037","December","12",7662
+"Total","Los Angeles County, CA","06037",,,90507
+,"Madera County, CA","06039","January","1",173
+,"Madera County, CA","06039","February","2",141
+,"Madera County, CA","06039","March","3",145
+,"Madera County, CA","06039","April","4",167
+,"Madera County, CA","06039","May","5",195
+,"Madera County, CA","06039","June","6",192
+,"Madera County, CA","06039","July","7",165
+,"Madera County, CA","06039","August","8",227
+,"Madera County, CA","06039","September","9",190
+,"Madera County, CA","06039","October","10",203
+,"Madera County, CA","06039","November","11",170
+,"Madera County, CA","06039","December","12",167
+"Total","Madera County, CA","06039",,,2135
+,"Marin County, CA","06041","January","1",161
+,"Marin County, CA","06041","February","2",172
+,"Marin County, CA","06041","March","3",188
+,"Marin County, CA","06041","April","4",172
+,"Marin County, CA","06041","May","5",171
+,"Marin County, CA","06041","June","6",156
+,"Marin County, CA","06041","July","7",175
+,"Marin County, CA","06041","August","8",187
+,"Marin County, CA","06041","September","9",165
+,"Marin County, CA","06041","October","10",174
+,"Marin County, CA","06041","November","11",149
+,"Marin County, CA","06041","December","12",171
+"Total","Marin County, CA","06041",,,2041
+,"Merced County, CA","06047","January","1",327
+,"Merced County, CA","06047","February","2",286
+,"Merced County, CA","06047","March","3",295
+,"Merced County, CA","06047","April","4",294
+,"Merced County, CA","06047","May","5",286
+,"Merced County, CA","06047","June","6",298
+,"Merced County, CA","06047","July","7",315
+,"Merced County, CA","06047","August","8",339
+,"Merced County, CA","06047","September","9",367
+,"Merced County, CA","06047","October","10",330
+,"Merced County, CA","06047","November","11",293
+,"Merced County, CA","06047","December","12",326
+"Total","Merced County, CA","06047",,,3756
+,"Monterey County, CA","06053","January","1",408
+,"Monterey County, CA","06053","February","2",420
+,"Monterey County, CA","06053","March","3",421
+,"Monterey County, CA","06053","April","4",432
+,"Monterey County, CA","06053","May","5",457
+,"Monterey County, CA","06053","June","6",458
+,"Monterey County, CA","06053","July","7",451
+,"Monterey County, CA","06053","August","8",471
+,"Monterey County, CA","06053","September","9",429
+,"Monterey County, CA","06053","October","10",409
+,"Monterey County, CA","06053","November","11",407
+,"Monterey County, CA","06053","December","12",408
+"Total","Monterey County, CA","06053",,,5171
+,"Napa County, CA","06055","January","1",83
+,"Napa County, CA","06055","February","2",84
+,"Napa County, CA","06055","March","3",85
+,"Napa County, CA","06055","April","4",94
+,"Napa County, CA","06055","May","5",83
+,"Napa County, CA","06055","June","6",98
+,"Napa County, CA","06055","July","7",78
+,"Napa County, CA","06055","August","8",98
+,"Napa County, CA","06055","September","9",94
+,"Napa County, CA","06055","October","10",98
+,"Napa County, CA","06055","November","11",93
+,"Napa County, CA","06055","December","12",116
+"Total","Napa County, CA","06055",,,1104
+,"Orange County, CA","06059","January","1",2469
+,"Orange County, CA","06059","February","2",2430
+,"Orange County, CA","06059","March","3",2573
+,"Orange County, CA","06059","April","4",2448
+,"Orange County, CA","06059","May","5",2578
+,"Orange County, CA","06059","June","6",2523
+,"Orange County, CA","06059","July","7",2721
+,"Orange County, CA","06059","August","8",2735
+,"Orange County, CA","06059","September","9",2643
+,"Orange County, CA","06059","October","10",2762
+,"Orange County, CA","06059","November","11",2451
+,"Orange County, CA","06059","December","12",2593
+"Total","Orange County, CA","06059",,,30926
+,"Placer County, CA","06061","January","1",319
+,"Placer County, CA","06061","February","2",308
+,"Placer County, CA","06061","March","3",324
+,"Placer County, CA","06061","April","4",320
+,"Placer County, CA","06061","May","5",330
+,"Placer County, CA","06061","June","6",305
+,"Placer County, CA","06061","July","7",368
+,"Placer County, CA","06061","August","8",352
+,"Placer County, CA","06061","September","9",344
+,"Placer County, CA","06061","October","10",361
+,"Placer County, CA","06061","November","11",309
+,"Placer County, CA","06061","December","12",312
+"Total","Placer County, CA","06061",,,3952
+,"Riverside County, CA","06065","January","1",2265
+,"Riverside County, CA","06065","February","2",2088
+,"Riverside County, CA","06065","March","3",2338
+,"Riverside County, CA","06065","April","4",2064
+,"Riverside County, CA","06065","May","5",2083
+,"Riverside County, CA","06065","June","6",2074
+,"Riverside County, CA","06065","July","7",2361
+,"Riverside County, CA","06065","August","8",2447
+,"Riverside County, CA","06065","September","9",2377
+,"Riverside County, CA","06065","October","10",2420
+,"Riverside County, CA","06065","November","11",2203
+,"Riverside County, CA","06065","December","12",2262
+"Total","Riverside County, CA","06065",,,26982
+,"Sacramento County, CA","06067","January","1",1472
+,"Sacramento County, CA","06067","February","2",1300
+,"Sacramento County, CA","06067","March","3",1379
+,"Sacramento County, CA","06067","April","4",1336
+,"Sacramento County, CA","06067","May","5",1407
+,"Sacramento County, CA","06067","June","6",1471
+,"Sacramento County, CA","06067","July","7",1566
+,"Sacramento County, CA","06067","August","8",1593
+,"Sacramento County, CA","06067","September","9",1475
+,"Sacramento County, CA","06067","October","10",1500
+,"Sacramento County, CA","06067","November","11",1422
+,"Sacramento County, CA","06067","December","12",1518
+"Total","Sacramento County, CA","06067",,,17439
+,"San Bernardino County, CA","06071","January","1",2111
+,"San Bernardino County, CA","06071","February","2",1972
+,"San Bernardino County, CA","06071","March","3",2043
+,"San Bernardino County, CA","06071","April","4",1981
+,"San Bernardino County, CA","06071","May","5",2082
+,"San Bernardino County, CA","06071","June","6",2011
+,"San Bernardino County, CA","06071","July","7",2126
+,"San Bernardino County, CA","06071","August","8",2257
+,"San Bernardino County, CA","06071","September","9",2303
+,"San Bernardino County, CA","06071","October","10",2214
+,"San Bernardino County, CA","06071","November","11",2067
+,"San Bernardino County, CA","06071","December","12",2117
+"Total","San Bernardino County, CA","06071",,,25284
+,"San Diego County, CA","06073","January","1",2920
+,"San Diego County, CA","06073","February","2",2832
+,"San Diego County, CA","06073","March","3",2985
+,"San Diego County, CA","06073","April","4",2869
+,"San Diego County, CA","06073","May","5",2926
+,"San Diego County, CA","06073","June","6",2874
+,"San Diego County, CA","06073","July","7",3065
+,"San Diego County, CA","06073","August","8",3236
+,"San Diego County, CA","06073","September","9",3110
+,"San Diego County, CA","06073","October","10",3216
+,"San Diego County, CA","06073","November","11",2952
+,"San Diego County, CA","06073","December","12",2946
+"Total","San Diego County, CA","06073",,,35931
+,"San Francisco County, CA","06075","January","1",534
+,"San Francisco County, CA","06075","February","2",505
+,"San Francisco County, CA","06075","March","3",595
+,"San Francisco County, CA","06075","April","4",535
+,"San Francisco County, CA","06075","May","5",571
+,"San Francisco County, CA","06075","June","6",573
+,"San Francisco County, CA","06075","July","7",603
+,"San Francisco County, CA","06075","August","8",609
+,"San Francisco County, CA","06075","September","9",561
+,"San Francisco County, CA","06075","October","10",602
+,"San Francisco County, CA","06075","November","11",602
+,"San Francisco County, CA","06075","December","12",640
+"Total","San Francisco County, CA","06075",,,6930
+,"San Joaquin County, CA","06077","January","1",791
+,"San Joaquin County, CA","06077","February","2",796
+,"San Joaquin County, CA","06077","March","3",825
+,"San Joaquin County, CA","06077","April","4",741
+,"San Joaquin County, CA","06077","May","5",817
+,"San Joaquin County, CA","06077","June","6",747
+,"San Joaquin County, CA","06077","July","7",842
+,"San Joaquin County, CA","06077","August","8",849
+,"San Joaquin County, CA","06077","September","9",858
+,"San Joaquin County, CA","06077","October","10",791
+,"San Joaquin County, CA","06077","November","11",803
+,"San Joaquin County, CA","06077","December","12",815
+"Total","San Joaquin County, CA","06077",,,9675
+,"San Luis Obispo County, CA","06079","January","1",191
+,"San Luis Obispo County, CA","06079","February","2",183
+,"San Luis Obispo County, CA","06079","March","3",196
+,"San Luis Obispo County, CA","06079","April","4",207
+,"San Luis Obispo County, CA","06079","May","5",192
+,"San Luis Obispo County, CA","06079","June","6",216
+,"San Luis Obispo County, CA","06079","July","7",175
+,"San Luis Obispo County, CA","06079","August","8",220
+,"San Luis Obispo County, CA","06079","September","9",192
+,"San Luis Obispo County, CA","06079","October","10",200
+,"San Luis Obispo County, CA","06079","November","11",190
+,"San Luis Obispo County, CA","06079","December","12",206
+"Total","San Luis Obispo County, CA","06079",,,2368
+,"San Mateo County, CA","06081","January","1",568
+,"San Mateo County, CA","06081","February","2",520
+,"San Mateo County, CA","06081","March","3",606
+,"San Mateo County, CA","06081","April","4",577
+,"San Mateo County, CA","06081","May","5",654
+,"San Mateo County, CA","06081","June","6",601
+,"San Mateo County, CA","06081","July","7",643
+,"San Mateo County, CA","06081","August","8",661
+,"San Mateo County, CA","06081","September","9",610
+,"San Mateo County, CA","06081","October","10",625
+,"San Mateo County, CA","06081","November","11",597
+,"San Mateo County, CA","06081","December","12",626
+"Total","San Mateo County, CA","06081",,,7288
+,"Santa Barbara County, CA","06083","January","1",467
+,"Santa Barbara County, CA","06083","February","2",432
+,"Santa Barbara County, CA","06083","March","3",483
+,"Santa Barbara County, CA","06083","April","4",427
+,"Santa Barbara County, CA","06083","May","5",414
+,"Santa Barbara County, CA","06083","June","6",459
+,"Santa Barbara County, CA","06083","July","7",463
+,"Santa Barbara County, CA","06083","August","8",486
+,"Santa Barbara County, CA","06083","September","9",445
+,"Santa Barbara County, CA","06083","October","10",433
+,"Santa Barbara County, CA","06083","November","11",407
+,"Santa Barbara County, CA","06083","December","12",467
+"Total","Santa Barbara County, CA","06083",,,5383
+,"Santa Clara County, CA","06085","January","1",1561
+,"Santa Clara County, CA","06085","February","2",1415
+,"Santa Clara County, CA","06085","March","3",1524
+,"Santa Clara County, CA","06085","April","4",1527
+,"Santa Clara County, CA","06085","May","5",1579
+,"Santa Clara County, CA","06085","June","6",1472
+,"Santa Clara County, CA","06085","July","7",1593
+,"Santa Clara County, CA","06085","August","8",1598
+,"Santa Clara County, CA","06085","September","9",1584
+,"Santa Clara County, CA","06085","October","10",1713
+,"Santa Clara County, CA","06085","November","11",1539
+,"Santa Clara County, CA","06085","December","12",1624
+"Total","Santa Clara County, CA","06085",,,18729
+,"Santa Cruz County, CA","06087","January","1",154
+,"Santa Cruz County, CA","06087","February","2",155
+,"Santa Cruz County, CA","06087","March","3",182
+,"Santa Cruz County, CA","06087","April","4",194
+,"Santa Cruz County, CA","06087","May","5",191
+,"Santa Cruz County, CA","06087","June","6",154
+,"Santa Cruz County, CA","06087","July","7",164
+,"Santa Cruz County, CA","06087","August","8",166
+,"Santa Cruz County, CA","06087","September","9",172
+,"Santa Cruz County, CA","06087","October","10",186
+,"Santa Cruz County, CA","06087","November","11",180
+,"Santa Cruz County, CA","06087","December","12",176
+"Total","Santa Cruz County, CA","06087",,,2074
+,"Shasta County, CA","06089","January","1",150
+,"Shasta County, CA","06089","February","2",124
+,"Shasta County, CA","06089","March","3",142
+,"Shasta County, CA","06089","April","4",150
+,"Shasta County, CA","06089","May","5",148
+,"Shasta County, CA","06089","June","6",155
+,"Shasta County, CA","06089","July","7",155
+,"Shasta County, CA","06089","August","8",128
+,"Shasta County, CA","06089","September","9",157
+,"Shasta County, CA","06089","October","10",143
+,"Shasta County, CA","06089","November","11",129
+,"Shasta County, CA","06089","December","12",144
+"Total","Shasta County, CA","06089",,,1725
+,"Solano County, CA","06095","January","1",393
+,"Solano County, CA","06095","February","2",354
+,"Solano County, CA","06095","March","3",370
+,"Solano County, CA","06095","April","4",400
+,"Solano County, CA","06095","May","5",389
+,"Solano County, CA","06095","June","6",359
+,"Solano County, CA","06095","July","7",404
+,"Solano County, CA","06095","August","8",386
+,"Solano County, CA","06095","September","9",428
+,"Solano County, CA","06095","October","10",388
+,"Solano County, CA","06095","November","11",352
+,"Solano County, CA","06095","December","12",389
+"Total","Solano County, CA","06095",,,4612
+,"Sonoma County, CA","06097","January","1",307
+,"Sonoma County, CA","06097","February","2",341
+,"Sonoma County, CA","06097","March","3",397
+,"Sonoma County, CA","06097","April","4",367
+,"Sonoma County, CA","06097","May","5",401
+,"Sonoma County, CA","06097","June","6",353
+,"Sonoma County, CA","06097","July","7",387
+,"Sonoma County, CA","06097","August","8",384
+,"Sonoma County, CA","06097","September","9",376
+,"Sonoma County, CA","06097","October","10",382
+,"Sonoma County, CA","06097","November","11",319
+,"Sonoma County, CA","06097","December","12",350
+"Total","Sonoma County, CA","06097",,,4364
+,"Stanislaus County, CA","06099","January","1",571
+,"Stanislaus County, CA","06099","February","2",554
+,"Stanislaus County, CA","06099","March","3",556
+,"Stanislaus County, CA","06099","April","4",534
+,"Stanislaus County, CA","06099","May","5",512
+,"Stanislaus County, CA","06099","June","6",541
+,"Stanislaus County, CA","06099","July","7",558
+,"Stanislaus County, CA","06099","August","8",655
+,"Stanislaus County, CA","06099","September","9",587
+,"Stanislaus County, CA","06099","October","10",589
+,"Stanislaus County, CA","06099","November","11",514
+,"Stanislaus County, CA","06099","December","12",548
+"Total","Stanislaus County, CA","06099",,,6719
+,"Tulare County, CA","06107","January","1",553
+,"Tulare County, CA","06107","February","2",474
+,"Tulare County, CA","06107","March","3",534
+,"Tulare County, CA","06107","April","4",534
+,"Tulare County, CA","06107","May","5",516
+,"Tulare County, CA","06107","June","6",544
+,"Tulare County, CA","06107","July","7",566
+,"Tulare County, CA","06107","August","8",590
+,"Tulare County, CA","06107","September","9",569
+,"Tulare County, CA","06107","October","10",590
+,"Tulare County, CA","06107","November","11",509
+,"Tulare County, CA","06107","December","12",583
+"Total","Tulare County, CA","06107",,,6562
+,"Ventura County, CA","06111","January","1",693
+,"Ventura County, CA","06111","February","2",653
+,"Ventura County, CA","06111","March","3",681
+,"Ventura County, CA","06111","April","4",688
+,"Ventura County, CA","06111","May","5",692
+,"Ventura County, CA","06111","June","6",660
+,"Ventura County, CA","06111","July","7",714
+,"Ventura County, CA","06111","August","8",796
+,"Ventura County, CA","06111","September","9",716
+,"Ventura County, CA","06111","October","10",771
+,"Ventura County, CA","06111","November","11",688
+,"Ventura County, CA","06111","December","12",667
+"Total","Ventura County, CA","06111",,,8419
+,"Yolo County, CA","06113","January","1",139
+,"Yolo County, CA","06113","February","2",157
+,"Yolo County, CA","06113","March","3",117
+,"Yolo County, CA","06113","April","4",148
+,"Yolo County, CA","06113","May","5",135
+,"Yolo County, CA","06113","June","6",172
+,"Yolo County, CA","06113","July","7",150
+,"Yolo County, CA","06113","August","8",159
+,"Yolo County, CA","06113","September","9",156
+,"Yolo County, CA","06113","October","10",170
+,"Yolo County, CA","06113","November","11",165
+,"Yolo County, CA","06113","December","12",143
+"Total","Yolo County, CA","06113",,,1811
+,"Unidentified Counties, CA","06999","January","1",265
+,"Unidentified Counties, CA","06999","February","2",231
+,"Unidentified Counties, CA","06999","March","3",253
+,"Unidentified Counties, CA","06999","April","4",249
+,"Unidentified Counties, CA","06999","May","5",273
+,"Unidentified Counties, CA","06999","June","6",265
+,"Unidentified Counties, CA","06999","July","7",291
+,"Unidentified Counties, CA","06999","August","8",279
+,"Unidentified Counties, CA","06999","September","9",275
+,"Unidentified Counties, CA","06999","October","10",265
+,"Unidentified Counties, CA","06999","November","11",240
+,"Unidentified Counties, CA","06999","December","12",282
+"Total","Unidentified Counties, CA","06999",,,3168
+,"Alachua County, FL","12001","January","1",220
+,"Alachua County, FL","12001","February","2",193
+,"Alachua County, FL","12001","March","3",209
+,"Alachua County, FL","12001","April","4",194
+,"Alachua County, FL","12001","May","5",194
+,"Alachua County, FL","12001","June","6",177
+,"Alachua County, FL","12001","July","7",235
+,"Alachua County, FL","12001","August","8",235
+,"Alachua County, FL","12001","September","9",214
+,"Alachua County, FL","12001","October","10",228
+,"Alachua County, FL","12001","November","11",224
+,"Alachua County, FL","12001","December","12",238
+"Total","Alachua County, FL","12001",,,2561
+,"Bay County, FL","12005","January","1",178
+,"Bay County, FL","12005","February","2",185
+,"Bay County, FL","12005","March","3",175
+,"Bay County, FL","12005","April","4",165
+,"Bay County, FL","12005","May","5",162
+,"Bay County, FL","12005","June","6",166
+,"Bay County, FL","12005","July","7",183
+,"Bay County, FL","12005","August","8",189
+,"Bay County, FL","12005","September","9",216
+,"Bay County, FL","12005","October","10",216
+,"Bay County, FL","12005","November","11",183
+,"Bay County, FL","12005","December","12",213
+"Total","Bay County, FL","12005",,,2231
+,"Brevard County, FL","12009","January","1",431
+,"Brevard County, FL","12009","February","2",420
+,"Brevard County, FL","12009","March","3",423
+,"Brevard County, FL","12009","April","4",428
+,"Brevard County, FL","12009","May","5",403
+,"Brevard County, FL","12009","June","6",430
+,"Brevard County, FL","12009","July","7",473
+,"Brevard County, FL","12009","August","8",476
+,"Brevard County, FL","12009","September","9",503
+,"Brevard County, FL","12009","October","10",483
+,"Brevard County, FL","12009","November","11",499
+,"Brevard County, FL","12009","December","12",502
+"Total","Brevard County, FL","12009",,,5471
+,"Broward County, FL","12011","January","1",1708
+,"Broward County, FL","12011","February","2",1622
+,"Broward County, FL","12011","March","3",1628
+,"Broward County, FL","12011","April","4",1555
+,"Broward County, FL","12011","May","5",1559
+,"Broward County, FL","12011","June","6",1520
+,"Broward County, FL","12011","July","7",1691
+,"Broward County, FL","12011","August","8",1800
+,"Broward County, FL","12011","September","9",1778
+,"Broward County, FL","12011","October","10",1819
+,"Broward County, FL","12011","November","11",1670
+,"Broward County, FL","12011","December","12",1774
+"Total","Broward County, FL","12011",,,20124
+,"Charlotte County, FL","12015","January","1",86
+,"Charlotte County, FL","12015","February","2",100
+,"Charlotte County, FL","12015","March","3",96
+,"Charlotte County, FL","12015","April","4",107
+,"Charlotte County, FL","12015","May","5",89
+,"Charlotte County, FL","12015","June","6",82
+,"Charlotte County, FL","12015","July","7",113
+,"Charlotte County, FL","12015","August","8",110
+,"Charlotte County, FL","12015","September","9",116
+,"Charlotte County, FL","12015","October","10",98
+,"Charlotte County, FL","12015","November","11",103
+,"Charlotte County, FL","12015","December","12",107
+"Total","Charlotte County, FL","12015",,,1207
+,"Citrus County, FL","12017","January","1",91
+,"Citrus County, FL","12017","February","2",75
+,"Citrus County, FL","12017","March","3",86
+,"Citrus County, FL","12017","April","4",80
+,"Citrus County, FL","12017","May","5",69
+,"Citrus County, FL","12017","June","6",68
+,"Citrus County, FL","12017","July","7",92
+,"Citrus County, FL","12017","August","8",101
+,"Citrus County, FL","12017","September","9",81
+,"Citrus County, FL","12017","October","10",118
+,"Citrus County, FL","12017","November","11",87
+,"Citrus County, FL","12017","December","12",98
+"Total","Citrus County, FL","12017",,,1046
+,"Clay County, FL","12019","January","1",181
+,"Clay County, FL","12019","February","2",151
+,"Clay County, FL","12019","March","3",210
+,"Clay County, FL","12019","April","4",166
+,"Clay County, FL","12019","May","5",193
+,"Clay County, FL","12019","June","6",162
+,"Clay County, FL","12019","July","7",208
+,"Clay County, FL","12019","August","8",227
+,"Clay County, FL","12019","September","9",207
+,"Clay County, FL","12019","October","10",196
+,"Clay County, FL","12019","November","11",205
+,"Clay County, FL","12019","December","12",196
+"Total","Clay County, FL","12019",,,2302
+,"Collier County, FL","12021","January","1",272
+,"Collier County, FL","12021","February","2",289
+,"Collier County, FL","12021","March","3",282
+,"Collier County, FL","12021","April","4",252
+,"Collier County, FL","12021","May","5",256
+,"Collier County, FL","12021","June","6",264
+,"Collier County, FL","12021","July","7",325
+,"Collier County, FL","12021","August","8",347
+,"Collier County, FL","12021","September","9",321
+,"Collier County, FL","12021","October","10",293
+,"Collier County, FL","12021","November","11",320
+,"Collier County, FL","12021","December","12",274
+"Total","Collier County, FL","12021",,,3495
+,"Duval County, FL","12031","January","1",1006
+,"Duval County, FL","12031","February","2",983
+,"Duval County, FL","12031","March","3",1033
+,"Duval County, FL","12031","April","4",1027
+,"Duval County, FL","12031","May","5",1072
+,"Duval County, FL","12031","June","6",983
+,"Duval County, FL","12031","July","7",1115
+,"Duval County, FL","12031","August","8",1181
+,"Duval County, FL","12031","September","9",1092
+,"Duval County, FL","12031","October","10",1148
+,"Duval County, FL","12031","November","11",1083
+,"Duval County, FL","12031","December","12",1173
+"Total","Duval County, FL","12031",,,12896
+,"Escambia County, FL","12033","January","1",321
+,"Escambia County, FL","12033","February","2",263
+,"Escambia County, FL","12033","March","3",303
+,"Escambia County, FL","12033","April","4",318
+,"Escambia County, FL","12033","May","5",278
+,"Escambia County, FL","12033","June","6",266
+,"Escambia County, FL","12033","July","7",366
+,"Escambia County, FL","12033","August","8",328
+,"Escambia County, FL","12033","September","9",305
+,"Escambia County, FL","12033","October","10",311
+,"Escambia County, FL","12033","November","11",307
+,"Escambia County, FL","12033","December","12",341
+"Total","Escambia County, FL","12033",,,3707
+,"Hernando County, FL","12053","January","1",149
+,"Hernando County, FL","12053","February","2",126
+,"Hernando County, FL","12053","March","3",118
+,"Hernando County, FL","12053","April","4",158
+,"Hernando County, FL","12053","May","5",147
+,"Hernando County, FL","12053","June","6",140
+,"Hernando County, FL","12053","July","7",174
+,"Hernando County, FL","12053","August","8",164
+,"Hernando County, FL","12053","September","9",200
+,"Hernando County, FL","12053","October","10",163
+,"Hernando County, FL","12053","November","11",180
+,"Hernando County, FL","12053","December","12",152
+"Total","Hernando County, FL","12053",,,1871
+,"Hillsborough County, FL","12057","January","1",1470
+,"Hillsborough County, FL","12057","February","2",1420
+,"Hillsborough County, FL","12057","March","3",1381
+,"Hillsborough County, FL","12057","April","4",1310
+,"Hillsborough County, FL","12057","May","5",1421
+,"Hillsborough County, FL","12057","June","6",1368
+,"Hillsborough County, FL","12057","July","7",1414
+,"Hillsborough County, FL","12057","August","8",1527
+,"Hillsborough County, FL","12057","September","9",1443
+,"Hillsborough County, FL","12057","October","10",1513
+,"Hillsborough County, FL","12057","November","11",1380
+,"Hillsborough County, FL","12057","December","12",1481
+"Total","Hillsborough County, FL","12057",,,17128
+,"Indian River County, FL","12061","January","1",87
+,"Indian River County, FL","12061","February","2",93
+,"Indian River County, FL","12061","March","3",95
+,"Indian River County, FL","12061","April","4",105
+,"Indian River County, FL","12061","May","5",97
+,"Indian River County, FL","12061","June","6",93
+,"Indian River County, FL","12061","July","7",105
+,"Indian River County, FL","12061","August","8",107
+,"Indian River County, FL","12061","September","9",125
+,"Indian River County, FL","12061","October","10",118
+,"Indian River County, FL","12061","November","11",93
+,"Indian River County, FL","12061","December","12",115
+"Total","Indian River County, FL","12061",,,1233
+,"Lake County, FL","12069","January","1",306
+,"Lake County, FL","12069","February","2",287
+,"Lake County, FL","12069","March","3",310
+,"Lake County, FL","12069","April","4",319
+,"Lake County, FL","12069","May","5",315
+,"Lake County, FL","12069","June","6",271
+,"Lake County, FL","12069","July","7",329
+,"Lake County, FL","12069","August","8",381
+,"Lake County, FL","12069","September","9",334
+,"Lake County, FL","12069","October","10",343
+,"Lake County, FL","12069","November","11",342
+,"Lake County, FL","12069","December","12",344
+"Total","Lake County, FL","12069",,,3881
+,"Lee County, FL","12071","January","1",682
+,"Lee County, FL","12071","February","2",630
+,"Lee County, FL","12071","March","3",652
+,"Lee County, FL","12071","April","4",638
+,"Lee County, FL","12071","May","5",591
+,"Lee County, FL","12071","June","6",642
+,"Lee County, FL","12071","July","7",672
+,"Lee County, FL","12071","August","8",733
+,"Lee County, FL","12071","September","9",737
+,"Lee County, FL","12071","October","10",750
+,"Lee County, FL","12071","November","11",684
+,"Lee County, FL","12071","December","12",734
+"Total","Lee County, FL","12071",,,8145
+,"Leon County, FL","12073","January","1",226
+,"Leon County, FL","12073","February","2",229
+,"Leon County, FL","12073","March","3",224
+,"Leon County, FL","12073","April","4",196
+,"Leon County, FL","12073","May","5",244
+,"Leon County, FL","12073","June","6",226
+,"Leon County, FL","12073","July","7",216
+,"Leon County, FL","12073","August","8",237
+,"Leon County, FL","12073","September","9",211
+,"Leon County, FL","12073","October","10",269
+,"Leon County, FL","12073","November","11",222
+,"Leon County, FL","12073","December","12",238
+"Total","Leon County, FL","12073",,,2738
+,"Manatee County, FL","12081","January","1",367
+,"Manatee County, FL","12081","February","2",306
+,"Manatee County, FL","12081","March","3",355
+,"Manatee County, FL","12081","April","4",344
+,"Manatee County, FL","12081","May","5",344
+,"Manatee County, FL","12081","June","6",294
+,"Manatee County, FL","12081","July","7",381
+,"Manatee County, FL","12081","August","8",366
+,"Manatee County, FL","12081","September","9",404
+,"Manatee County, FL","12081","October","10",340
+,"Manatee County, FL","12081","November","11",386
+,"Manatee County, FL","12081","December","12",374
+"Total","Manatee County, FL","12081",,,4261
+,"Marion County, FL","12083","January","1",311
+,"Marion County, FL","12083","February","2",308
+,"Marion County, FL","12083","March","3",294
+,"Marion County, FL","12083","April","4",283
+,"Marion County, FL","12083","May","5",275
+,"Marion County, FL","12083","June","6",270
+,"Marion County, FL","12083","July","7",373
+,"Marion County, FL","12083","August","8",348
+,"Marion County, FL","12083","September","9",355
+,"Marion County, FL","12083","October","10",385
+,"Marion County, FL","12083","November","11",371
+,"Marion County, FL","12083","December","12",373
+"Total","Marion County, FL","12083",,,3946
+,"Martin County, FL","12085","January","1",119
+,"Martin County, FL","12085","February","2",107
+,"Martin County, FL","12085","March","3",113
+,"Martin County, FL","12085","April","4",101
+,"Martin County, FL","12085","May","5",95
+,"Martin County, FL","12085","June","6",106
+,"Martin County, FL","12085","July","7",114
+,"Martin County, FL","12085","August","8",126
+,"Martin County, FL","12085","September","9",119
+,"Martin County, FL","12085","October","10",120
+,"Martin County, FL","12085","November","11",123
+,"Martin County, FL","12085","December","12",118
+"Total","Martin County, FL","12085",,,1361
+,"Miami-Dade County, FL","12086","January","1",2392
+,"Miami-Dade County, FL","12086","February","2",2193
+,"Miami-Dade County, FL","12086","March","3",2250
+,"Miami-Dade County, FL","12086","April","4",2200
+,"Miami-Dade County, FL","12086","May","5",2271
+,"Miami-Dade County, FL","12086","June","6",2209
+,"Miami-Dade County, FL","12086","July","7",2392
+,"Miami-Dade County, FL","12086","August","8",2542
+,"Miami-Dade County, FL","12086","September","9",2434
+,"Miami-Dade County, FL","12086","October","10",2520
+,"Miami-Dade County, FL","12086","November","11",2322
+,"Miami-Dade County, FL","12086","December","12",2425
+"Total","Miami-Dade County, FL","12086",,,28150
+,"Okaloosa County, FL","12091","January","1",204
+,"Okaloosa County, FL","12091","February","2",225
+,"Okaloosa County, FL","12091","March","3",210
+,"Okaloosa County, FL","12091","April","4",220
+,"Okaloosa County, FL","12091","May","5",219
+,"Okaloosa County, FL","12091","June","6",208
+,"Okaloosa County, FL","12091","July","7",237
+,"Okaloosa County, FL","12091","August","8",253
+,"Okaloosa County, FL","12091","September","9",211
+,"Okaloosa County, FL","12091","October","10",226
+,"Okaloosa County, FL","12091","November","11",225
+,"Okaloosa County, FL","12091","December","12",220
+"Total","Okaloosa County, FL","12091",,,2658
+,"Orange County, FL","12095","January","1",1282
+,"Orange County, FL","12095","February","2",1264
+,"Orange County, FL","12095","March","3",1329
+,"Orange County, FL","12095","April","4",1262
+,"Orange County, FL","12095","May","5",1257
+,"Orange County, FL","12095","June","6",1329
+,"Orange County, FL","12095","July","7",1401
+,"Orange County, FL","12095","August","8",1490
+,"Orange County, FL","12095","September","9",1391
+,"Orange County, FL","12095","October","10",1472
+,"Orange County, FL","12095","November","11",1390
+,"Orange County, FL","12095","December","12",1565
+"Total","Orange County, FL","12095",,,16432
+,"Osceola County, FL","12097","January","1",421
+,"Osceola County, FL","12097","February","2",388
+,"Osceola County, FL","12097","March","3",430
+,"Osceola County, FL","12097","April","4",377
+,"Osceola County, FL","12097","May","5",439
+,"Osceola County, FL","12097","June","6",387
+,"Osceola County, FL","12097","July","7",457
+,"Osceola County, FL","12097","August","8",460
+,"Osceola County, FL","12097","September","9",447
+,"Osceola County, FL","12097","October","10",463
+,"Osceola County, FL","12097","November","11",391
+,"Osceola County, FL","12097","December","12",463
+"Total","Osceola County, FL","12097",,,5123
+,"Palm Beach County, FL","12099","January","1",1280
+,"Palm Beach County, FL","12099","February","2",1169
+,"Palm Beach County, FL","12099","March","3",1216
+,"Palm Beach County, FL","12099","April","4",1155
+,"Palm Beach County, FL","12099","May","5",1176
+,"Palm Beach County, FL","12099","June","6",1139
+,"Palm Beach County, FL","12099","July","7",1242
+,"Palm Beach County, FL","12099","August","8",1318
+,"Palm Beach County, FL","12099","September","9",1347
+,"Palm Beach County, FL","12099","October","10",1391
+,"Palm Beach County, FL","12099","November","11",1210
+,"Palm Beach County, FL","12099","December","12",1284
+"Total","Palm Beach County, FL","12099",,,14927
+,"Pasco County, FL","12101","January","1",479
+,"Pasco County, FL","12101","February","2",498
+,"Pasco County, FL","12101","March","3",463
+,"Pasco County, FL","12101","April","4",488
+,"Pasco County, FL","12101","May","5",517
+,"Pasco County, FL","12101","June","6",505
+,"Pasco County, FL","12101","July","7",518
+,"Pasco County, FL","12101","August","8",561
+,"Pasco County, FL","12101","September","9",590
+,"Pasco County, FL","12101","October","10",592
+,"Pasco County, FL","12101","November","11",506
+,"Pasco County, FL","12101","December","12",539
+"Total","Pasco County, FL","12101",,,6256
+,"Pinellas County, FL","12103","January","1",564
+,"Pinellas County, FL","12103","February","2",523
+,"Pinellas County, FL","12103","March","3",564
+,"Pinellas County, FL","12103","April","4",556
+,"Pinellas County, FL","12103","May","5",598
+,"Pinellas County, FL","12103","June","6",580
+,"Pinellas County, FL","12103","July","7",619
+,"Pinellas County, FL","12103","August","8",609
+,"Pinellas County, FL","12103","September","9",606
+,"Pinellas County, FL","12103","October","10",596
+,"Pinellas County, FL","12103","November","11",601
+,"Pinellas County, FL","12103","December","12",596
+"Total","Pinellas County, FL","12103",,,7012
+,"Polk County, FL","12105","January","1",780
+,"Polk County, FL","12105","February","2",731
+,"Polk County, FL","12105","March","3",731
+,"Polk County, FL","12105","April","4",752
+,"Polk County, FL","12105","May","5",816
+,"Polk County, FL","12105","June","6",750
+,"Polk County, FL","12105","July","7",855
+,"Polk County, FL","12105","August","8",842
+,"Polk County, FL","12105","September","9",799
+,"Polk County, FL","12105","October","10",809
+,"Polk County, FL","12105","November","11",775
+,"Polk County, FL","12105","December","12",830
+"Total","Polk County, FL","12105",,,9470
+,"St. Johns County, FL","12109","January","1",182
+,"St. Johns County, FL","12109","February","2",205
+,"St. Johns County, FL","12109","March","3",225
+,"St. Johns County, FL","12109","April","4",204
+,"St. Johns County, FL","12109","May","5",210
+,"St. Johns County, FL","12109","June","6",209
+,"St. Johns County, FL","12109","July","7",219
+,"St. Johns County, FL","12109","August","8",271
+,"St. Johns County, FL","12109","September","9",213
+,"St. Johns County, FL","12109","October","10",229
+,"St. Johns County, FL","12109","November","11",248
+,"St. Johns County, FL","12109","December","12",226
+"Total","St. Johns County, FL","12109",,,2641
+,"St. Lucie County, FL","12111","January","1",328
+,"St. Lucie County, FL","12111","February","2",328
+,"St. Lucie County, FL","12111","March","3",328
+,"St. Lucie County, FL","12111","April","4",257
+,"St. Lucie County, FL","12111","May","5",317
+,"St. Lucie County, FL","12111","June","6",296
+,"St. Lucie County, FL","12111","July","7",315
+,"St. Lucie County, FL","12111","August","8",313
+,"St. Lucie County, FL","12111","September","9",349
+,"St. Lucie County, FL","12111","October","10",344
+,"St. Lucie County, FL","12111","November","11",367
+,"St. Lucie County, FL","12111","December","12",352
+"Total","St. Lucie County, FL","12111",,,3894
+,"Santa Rosa County, FL","12113","January","1",155
+,"Santa Rosa County, FL","12113","February","2",176
+,"Santa Rosa County, FL","12113","March","3",152
+,"Santa Rosa County, FL","12113","April","4",165
+,"Santa Rosa County, FL","12113","May","5",147
+,"Santa Rosa County, FL","12113","June","6",156
+,"Santa Rosa County, FL","12113","July","7",188
+,"Santa Rosa County, FL","12113","August","8",185
+,"Santa Rosa County, FL","12113","September","9",176
+,"Santa Rosa County, FL","12113","October","10",190
+,"Santa Rosa County, FL","12113","November","11",156
+,"Santa Rosa County, FL","12113","December","12",147
+"Total","Santa Rosa County, FL","12113",,,1993
+,"Sarasota County, FL","12115","January","1",271
+,"Sarasota County, FL","12115","February","2",259
+,"Sarasota County, FL","12115","March","3",263
+,"Sarasota County, FL","12115","April","4",260
+,"Sarasota County, FL","12115","May","5",247
+,"Sarasota County, FL","12115","June","6",237
+,"Sarasota County, FL","12115","July","7",263
+,"Sarasota County, FL","12115","August","8",282
+,"Sarasota County, FL","12115","September","9",277
+,"Sarasota County, FL","12115","October","10",293
+,"Sarasota County, FL","12115","November","11",250
+,"Sarasota County, FL","12115","December","12",290
+"Total","Sarasota County, FL","12115",,,3192
+,"Seminole County, FL","12117","January","1",348
+,"Seminole County, FL","12117","February","2",307
+,"Seminole County, FL","12117","March","3",390
+,"Seminole County, FL","12117","April","4",346
+,"Seminole County, FL","12117","May","5",365
+,"Seminole County, FL","12117","June","6",389
+,"Seminole County, FL","12117","July","7",398
+,"Seminole County, FL","12117","August","8",363
+,"Seminole County, FL","12117","September","9",362
+,"Seminole County, FL","12117","October","10",398
+,"Seminole County, FL","12117","November","11",351
+,"Seminole County, FL","12117","December","12",373
+"Total","Seminole County, FL","12117",,,4390
+,"Volusia County, FL","12127","January","1",421
+,"Volusia County, FL","12127","February","2",394
+,"Volusia County, FL","12127","March","3",349
+,"Volusia County, FL","12127","April","4",370
+,"Volusia County, FL","12127","May","5",382
+,"Volusia County, FL","12127","June","6",404
+,"Volusia County, FL","12127","July","7",414
+,"Volusia County, FL","12127","August","8",489
+,"Volusia County, FL","12127","September","9",466
+,"Volusia County, FL","12127","October","10",472
+,"Volusia County, FL","12127","November","11",436
+,"Volusia County, FL","12127","December","12",487
+"Total","Volusia County, FL","12127",,,5084
+,"Unidentified Counties, FL","12999","January","1",487
+,"Unidentified Counties, FL","12999","February","2",479
+,"Unidentified Counties, FL","12999","March","3",469
+,"Unidentified Counties, FL","12999","April","4",441
+,"Unidentified Counties, FL","12999","May","5",483
+,"Unidentified Counties, FL","12999","June","6",462
+,"Unidentified Counties, FL","12999","July","7",545
+,"Unidentified Counties, FL","12999","August","8",522
+,"Unidentified Counties, FL","12999","September","9",529
+,"Unidentified Counties, FL","12999","October","10",496
+,"Unidentified Counties, FL","12999","November","11",479
+,"Unidentified Counties, FL","12999","December","12",533
+"Total","Unidentified Counties, FL","12999",,,5925
+,"Champaign County, IL","17019","January","1",161
+,"Champaign County, IL","17019","February","2",139
+,"Champaign County, IL","17019","March","3",145
+,"Champaign County, IL","17019","April","4",149
+,"Champaign County, IL","17019","May","5",182
+,"Champaign County, IL","17019","June","6",138
+,"Champaign County, IL","17019","July","7",159
+,"Champaign County, IL","17019","August","8",170
+,"Champaign County, IL","17019","September","9",164
+,"Champaign County, IL","17019","October","10",179
+,"Champaign County, IL","17019","November","11",156
+,"Champaign County, IL","17019","December","12",167
+"Total","Champaign County, IL","17019",,,1909
+,"Cook County, IL","17031","January","1",4164
+,"Cook County, IL","17031","February","2",3897
+,"Cook County, IL","17031","March","3",4188
+,"Cook County, IL","17031","April","4",4110
+,"Cook County, IL","17031","May","5",4332
+,"Cook County, IL","17031","June","6",4327
+,"Cook County, IL","17031","July","7",4534
+,"Cook County, IL","17031","August","8",4503
+,"Cook County, IL","17031","September","9",4272
+,"Cook County, IL","17031","October","10",4388
+,"Cook County, IL","17031","November","11",4222
+,"Cook County, IL","17031","December","12",4293
+"Total","Cook County, IL","17031",,,51230
+,"DeKalb County, IL","17037","January","1",79
+,"DeKalb County, IL","17037","February","2",68
+,"DeKalb County, IL","17037","March","3",88
+,"DeKalb County, IL","17037","April","4",80
+,"DeKalb County, IL","17037","May","5",87
+,"DeKalb County, IL","17037","June","6",85
+,"DeKalb County, IL","17037","July","7",88
+,"DeKalb County, IL","17037","August","8",90
+,"DeKalb County, IL","17037","September","9",83
+,"DeKalb County, IL","17037","October","10",86
+,"DeKalb County, IL","17037","November","11",87
+,"DeKalb County, IL","17037","December","12",95
+"Total","DeKalb County, IL","17037",,,1016
+,"DuPage County, IL","17043","January","1",756
+,"DuPage County, IL","17043","February","2",741
+,"DuPage County, IL","17043","March","3",751
+,"DuPage County, IL","17043","April","4",786
+,"DuPage County, IL","17043","May","5",812
+,"DuPage County, IL","17043","June","6",781
+,"DuPage County, IL","17043","July","7",889
+,"DuPage County, IL","17043","August","8",829
+,"DuPage County, IL","17043","September","9",808
+,"DuPage County, IL","17043","October","10",920
+,"DuPage County, IL","17043","November","11",711
+,"DuPage County, IL","17043","December","12",713
+"Total","DuPage County, IL","17043",,,9497
+,"Kane County, IL","17089","January","1",412
+,"Kane County, IL","17089","February","2",403
+,"Kane County, IL","17089","March","3",419
+,"Kane County, IL","17089","April","4",468
+,"Kane County, IL","17089","May","5",469
+,"Kane County, IL","17089","June","6",495
+,"Kane County, IL","17089","July","7",481
+,"Kane County, IL","17089","August","8",510
+,"Kane County, IL","17089","September","9",461
+,"Kane County, IL","17089","October","10",503
+,"Kane County, IL","17089","November","11",427
+,"Kane County, IL","17089","December","12",422
+"Total","Kane County, IL","17089",,,5470
+,"Kankakee County, IL","17091","January","1",114
+,"Kankakee County, IL","17091","February","2",91
+,"Kankakee County, IL","17091","March","3",78
+,"Kankakee County, IL","17091","April","4",93
+,"Kankakee County, IL","17091","May","5",75
+,"Kankakee County, IL","17091","June","6",114
+,"Kankakee County, IL","17091","July","7",97
+,"Kankakee County, IL","17091","August","8",78
+,"Kankakee County, IL","17091","September","9",95
+,"Kankakee County, IL","17091","October","10",105
+,"Kankakee County, IL","17091","November","11",79
+,"Kankakee County, IL","17091","December","12",92
+"Total","Kankakee County, IL","17091",,,1111
+,"Kendall County, IL","17093","January","1",122
+,"Kendall County, IL","17093","February","2",112
+,"Kendall County, IL","17093","March","3",103
+,"Kendall County, IL","17093","April","4",121
+,"Kendall County, IL","17093","May","5",148
+,"Kendall County, IL","17093","June","6",104
+,"Kendall County, IL","17093","July","7",143
+,"Kendall County, IL","17093","August","8",132
+,"Kendall County, IL","17093","September","9",120
+,"Kendall County, IL","17093","October","10",120
+,"Kendall County, IL","17093","November","11",98
+,"Kendall County, IL","17093","December","12",122
+"Total","Kendall County, IL","17093",,,1445
+,"Lake County, IL","17097","January","1",521
+,"Lake County, IL","17097","February","2",491
+,"Lake County, IL","17097","March","3",592
+,"Lake County, IL","17097","April","4",511
+,"Lake County, IL","17097","May","5",568
+,"Lake County, IL","17097","June","6",504
+,"Lake County, IL","17097","July","7",565
+,"Lake County, IL","17097","August","8",592
+,"Lake County, IL","17097","September","9",542
+,"Lake County, IL","17097","October","10",562
+,"Lake County, IL","17097","November","11",498
+,"Lake County, IL","17097","December","12",557
+"Total","Lake County, IL","17097",,,6503
+,"McHenry County, IL","17111","January","1",243
+,"McHenry County, IL","17111","February","2",224
+,"McHenry County, IL","17111","March","3",241
+,"McHenry County, IL","17111","April","4",255
+,"McHenry County, IL","17111","May","5",277
+,"McHenry County, IL","17111","June","6",267
+,"McHenry County, IL","17111","July","7",327
+,"McHenry County, IL","17111","August","8",245
+,"McHenry County, IL","17111","September","9",251
+,"McHenry County, IL","17111","October","10",249
+,"McHenry County, IL","17111","November","11",236
+,"McHenry County, IL","17111","December","12",243
+"Total","McHenry County, IL","17111",,,3058
+,"McLean County, IL","17113","January","1",136
+,"McLean County, IL","17113","February","2",128
+,"McLean County, IL","17113","March","3",126
+,"McLean County, IL","17113","April","4",142
+,"McLean County, IL","17113","May","5",139
+,"McLean County, IL","17113","June","6",136
+,"McLean County, IL","17113","July","7",149
+,"McLean County, IL","17113","August","8",130
+,"McLean County, IL","17113","September","9",120
+,"McLean County, IL","17113","October","10",110
+,"McLean County, IL","17113","November","11",137
+,"McLean County, IL","17113","December","12",115
+"Total","McLean County, IL","17113",,,1568
+,"Macon County, IL","17115","January","1",84
+,"Macon County, IL","17115","February","2",91
+,"Macon County, IL","17115","March","3",74
+,"Macon County, IL","17115","April","4",74
+,"Macon County, IL","17115","May","5",75
+,"Macon County, IL","17115","June","6",95
+,"Macon County, IL","17115","July","7",100
+,"Macon County, IL","17115","August","8",105
+,"Macon County, IL","17115","September","9",96
+,"Macon County, IL","17115","October","10",90
+,"Macon County, IL","17115","November","11",86
+,"Macon County, IL","17115","December","12",94
+"Total","Macon County, IL","17115",,,1064
+,"Madison County, IL","17119","January","1",203
+,"Madison County, IL","17119","February","2",194
+,"Madison County, IL","17119","March","3",206
+,"Madison County, IL","17119","April","4",198
+,"Madison County, IL","17119","May","5",219
+,"Madison County, IL","17119","June","6",174
+,"Madison County, IL","17119","July","7",220
+,"Madison County, IL","17119","August","8",218
+,"Madison County, IL","17119","September","9",216
+,"Madison County, IL","17119","October","10",234
+,"Madison County, IL","17119","November","11",163
+,"Madison County, IL","17119","December","12",225
+"Total","Madison County, IL","17119",,,2470
+,"Peoria County, IL","17143","January","1",185
+,"Peoria County, IL","17143","February","2",167
+,"Peoria County, IL","17143","March","3",195
+,"Peoria County, IL","17143","April","4",169
+,"Peoria County, IL","17143","May","5",150
+,"Peoria County, IL","17143","June","6",193
+,"Peoria County, IL","17143","July","7",177
+,"Peoria County, IL","17143","August","8",180
+,"Peoria County, IL","17143","September","9",184
+,"Peoria County, IL","17143","October","10",167
+,"Peoria County, IL","17143","November","11",170
+,"Peoria County, IL","17143","December","12",151
+"Total","Peoria County, IL","17143",,,2088
+,"Rock Island County, IL","17161","January","1",147
+,"Rock Island County, IL","17161","February","2",103
+,"Rock Island County, IL","17161","March","3",112
+,"Rock Island County, IL","17161","April","4",134
+,"Rock Island County, IL","17161","May","5",155
+,"Rock Island County, IL","17161","June","6",121
+,"Rock Island County, IL","17161","July","7",125
+,"Rock Island County, IL","17161","August","8",139
+,"Rock Island County, IL","17161","September","9",131
+,"Rock Island County, IL","17161","October","10",118
+,"Rock Island County, IL","17161","November","11",114
+,"Rock Island County, IL","17161","December","12",111
+"Total","Rock Island County, IL","17161",,,1510
+,"St. Clair County, IL","17163","January","1",202
+,"St. Clair County, IL","17163","February","2",199
+,"St. Clair County, IL","17163","March","3",218
+,"St. Clair County, IL","17163","April","4",185
+,"St. Clair County, IL","17163","May","5",201
+,"St. Clair County, IL","17163","June","6",196
+,"St. Clair County, IL","17163","July","7",205
+,"St. Clair County, IL","17163","August","8",218
+,"St. Clair County, IL","17163","September","9",205
+,"St. Clair County, IL","17163","October","10",228
+,"St. Clair County, IL","17163","November","11",202
+,"St. Clair County, IL","17163","December","12",190
+"Total","St. Clair County, IL","17163",,,2449
+,"Sangamon County, IL","17167","January","1",152
+,"Sangamon County, IL","17167","February","2",146
+,"Sangamon County, IL","17167","March","3",146
+,"Sangamon County, IL","17167","April","4",171
+,"Sangamon County, IL","17167","May","5",171
+,"Sangamon County, IL","17167","June","6",130
+,"Sangamon County, IL","17167","July","7",186
+,"Sangamon County, IL","17167","August","8",167
+,"Sangamon County, IL","17167","September","9",141
+,"Sangamon County, IL","17167","October","10",152
+,"Sangamon County, IL","17167","November","11",140
+,"Sangamon County, IL","17167","December","12",168
+"Total","Sangamon County, IL","17167",,,1870
+,"Tazewell County, IL","17179","January","1",104
+,"Tazewell County, IL","17179","February","2",103
+,"Tazewell County, IL","17179","March","3",105
+,"Tazewell County, IL","17179","April","4",118
+,"Tazewell County, IL","17179","May","5",107
+,"Tazewell County, IL","17179","June","6",94
+,"Tazewell County, IL","17179","July","7",112
+,"Tazewell County, IL","17179","August","8",104
+,"Tazewell County, IL","17179","September","9",90
+,"Tazewell County, IL","17179","October","10",110
+,"Tazewell County, IL","17179","November","11",82
+,"Tazewell County, IL","17179","December","12",99
+"Total","Tazewell County, IL","17179",,,1228
+,"Will County, IL","17197","January","1",528
+,"Will County, IL","17197","February","2",513
+,"Will County, IL","17197","March","3",576
+,"Will County, IL","17197","April","4",569
+,"Will County, IL","17197","May","5",582
+,"Will County, IL","17197","June","6",583
+,"Will County, IL","17197","July","7",607
+,"Will County, IL","17197","August","8",615
+,"Will County, IL","17197","September","9",551
+,"Will County, IL","17197","October","10",554
+,"Will County, IL","17197","November","11",548
+,"Will County, IL","17197","December","12",518
+"Total","Will County, IL","17197",,,6744
+,"Winnebago County, IL","17201","January","1",258
+,"Winnebago County, IL","17201","February","2",254
+,"Winnebago County, IL","17201","March","3",269
+,"Winnebago County, IL","17201","April","4",243
+,"Winnebago County, IL","17201","May","5",270
+,"Winnebago County, IL","17201","June","6",259
+,"Winnebago County, IL","17201","July","7",285
+,"Winnebago County, IL","17201","August","8",263
+,"Winnebago County, IL","17201","September","9",221
+,"Winnebago County, IL","17201","October","10",254
+,"Winnebago County, IL","17201","November","11",278
+,"Winnebago County, IL","17201","December","12",271
+"Total","Winnebago County, IL","17201",,,3125
+,"Unidentified Counties, IL","17999","January","1",485
+,"Unidentified Counties, IL","17999","February","2",543
+,"Unidentified Counties, IL","17999","March","3",515
+,"Unidentified Counties, IL","17999","April","4",529
+,"Unidentified Counties, IL","17999","May","5",540
+,"Unidentified Counties, IL","17999","June","6",513
+,"Unidentified Counties, IL","17999","July","7",590
+,"Unidentified Counties, IL","17999","August","8",578
+,"Unidentified Counties, IL","17999","September","9",549
+,"Unidentified Counties, IL","17999","October","10",518
+,"Unidentified Counties, IL","17999","November","11",442
+,"Unidentified Counties, IL","17999","December","12",512
+"Total","Unidentified Counties, IL","17999",,,6314
+,"Albany County, NY","36001","January","1",236
+,"Albany County, NY","36001","February","2",236
+,"Albany County, NY","36001","March","3",236
+,"Albany County, NY","36001","April","4",234
+,"Albany County, NY","36001","May","5",236
+,"Albany County, NY","36001","June","6",215
+,"Albany County, NY","36001","July","7",226
+,"Albany County, NY","36001","August","8",250
+,"Albany County, NY","36001","September","9",222
+,"Albany County, NY","36001","October","10",217
+,"Albany County, NY","36001","November","11",238
+,"Albany County, NY","36001","December","12",228
+"Total","Albany County, NY","36001",,,2774
+,"Bronx County, NY","36005","January","1",1348
+,"Bronx County, NY","36005","February","2",1301
+,"Bronx County, NY","36005","March","3",1322
+,"Bronx County, NY","36005","April","4",1257
+,"Bronx County, NY","36005","May","5",1410
+,"Bronx County, NY","36005","June","6",1303
+,"Bronx County, NY","36005","July","7",1421
+,"Bronx County, NY","36005","August","8",1439
+,"Bronx County, NY","36005","September","9",1437
+,"Bronx County, NY","36005","October","10",1325
+,"Bronx County, NY","36005","November","11",1408
+,"Bronx County, NY","36005","December","12",1361
+"Total","Bronx County, NY","36005",,,16332
+,"Broome County, NY","36007","January","1",155
+,"Broome County, NY","36007","February","2",153
+,"Broome County, NY","36007","March","3",136
+,"Broome County, NY","36007","April","4",127
+,"Broome County, NY","36007","May","5",162
+,"Broome County, NY","36007","June","6",153
+,"Broome County, NY","36007","July","7",142
+,"Broome County, NY","36007","August","8",147
+,"Broome County, NY","36007","September","9",126
+,"Broome County, NY","36007","October","10",139
+,"Broome County, NY","36007","November","11",140
+,"Broome County, NY","36007","December","12",129
+"Total","Broome County, NY","36007",,,1709
+,"Dutchess County, NY","36027","January","1",213
+,"Dutchess County, NY","36027","February","2",201
+,"Dutchess County, NY","36027","March","3",195
+,"Dutchess County, NY","36027","April","4",217
+,"Dutchess County, NY","36027","May","5",234
+,"Dutchess County, NY","36027","June","6",226
+,"Dutchess County, NY","36027","July","7",241
+,"Dutchess County, NY","36027","August","8",254
+,"Dutchess County, NY","36027","September","9",226
+,"Dutchess County, NY","36027","October","10",206
+,"Dutchess County, NY","36027","November","11",210
+,"Dutchess County, NY","36027","December","12",219
+"Total","Dutchess County, NY","36027",,,2642
+,"Erie County, NY","36029","January","1",714
+,"Erie County, NY","36029","February","2",631
+,"Erie County, NY","36029","March","3",766
+,"Erie County, NY","36029","April","4",709
+,"Erie County, NY","36029","May","5",767
+,"Erie County, NY","36029","June","6",766
+,"Erie County, NY","36029","July","7",781
+,"Erie County, NY","36029","August","8",762
+,"Erie County, NY","36029","September","9",752
+,"Erie County, NY","36029","October","10",717
+,"Erie County, NY","36029","November","11",715
+,"Erie County, NY","36029","December","12",682
+"Total","Erie County, NY","36029",,,8762
+,"Jefferson County, NY","36045","January","1",151
+,"Jefferson County, NY","36045","February","2",154
+,"Jefferson County, NY","36045","March","3",136
+,"Jefferson County, NY","36045","April","4",120
+,"Jefferson County, NY","36045","May","5",137
+,"Jefferson County, NY","36045","June","6",130
+,"Jefferson County, NY","36045","July","7",130
+,"Jefferson County, NY","36045","August","8",128
+,"Jefferson County, NY","36045","September","9",126
+,"Jefferson County, NY","36045","October","10",114
+,"Jefferson County, NY","36045","November","11",93
+,"Jefferson County, NY","36045","December","12",121
+"Total","Jefferson County, NY","36045",,,1540
+,"Kings County, NY","36047","January","1",2853
+,"Kings County, NY","36047","February","2",2683
+,"Kings County, NY","36047","March","3",2850
+,"Kings County, NY","36047","April","4",2559
+,"Kings County, NY","36047","May","5",2863
+,"Kings County, NY","36047","June","6",2598
+,"Kings County, NY","36047","July","7",2798
+,"Kings County, NY","36047","August","8",2815
+,"Kings County, NY","36047","September","9",2692
+,"Kings County, NY","36047","October","10",2825
+,"Kings County, NY","36047","November","11",2745
+,"Kings County, NY","36047","December","12",2900
+"Total","Kings County, NY","36047",,,33181
+,"Monroe County, NY","36055","January","1",558
+,"Monroe County, NY","36055","February","2",578
+,"Monroe County, NY","36055","March","3",572
+,"Monroe County, NY","36055","April","4",578
+,"Monroe County, NY","36055","May","5",598
+,"Monroe County, NY","36055","June","6",583
+,"Monroe County, NY","36055","July","7",600
+,"Monroe County, NY","36055","August","8",590
+,"Monroe County, NY","36055","September","9",587
+,"Monroe County, NY","36055","October","10",582
+,"Monroe County, NY","36055","November","11",572
+,"Monroe County, NY","36055","December","12",572
+"Total","Monroe County, NY","36055",,,6970
+,"Nassau County, NY","36059","January","1",1102
+,"Nassau County, NY","36059","February","2",1097
+,"Nassau County, NY","36059","March","3",1111
+,"Nassau County, NY","36059","April","4",1110
+,"Nassau County, NY","36059","May","5",1140
+,"Nassau County, NY","36059","June","6",1063
+,"Nassau County, NY","36059","July","7",1194
+,"Nassau County, NY","36059","August","8",1183
+,"Nassau County, NY","36059","September","9",1169
+,"Nassau County, NY","36059","October","10",1190
+,"Nassau County, NY","36059","November","11",1093
+,"Nassau County, NY","36059","December","12",1073
+"Total","Nassau County, NY","36059",,,13525
+,"New York County, NY","36061","January","1",1176
+,"New York County, NY","36061","February","2",1101
+,"New York County, NY","36061","March","3",1173
+,"New York County, NY","36061","April","4",1267
+,"New York County, NY","36061","May","5",1292
+,"New York County, NY","36061","June","6",1127
+,"New York County, NY","36061","July","7",1291
+,"New York County, NY","36061","August","8",1251
+,"New York County, NY","36061","September","9",1190
+,"New York County, NY","36061","October","10",1259
+,"New York County, NY","36061","November","11",1184
+,"New York County, NY","36061","December","12",1197
+"Total","New York County, NY","36061",,,14508
+,"Niagara County, NY","36063","January","1",140
+,"Niagara County, NY","36063","February","2",151
+,"Niagara County, NY","36063","March","3",150
+,"Niagara County, NY","36063","April","4",182
+,"Niagara County, NY","36063","May","5",148
+,"Niagara County, NY","36063","June","6",168
+,"Niagara County, NY","36063","July","7",158
+,"Niagara County, NY","36063","August","8",183
+,"Niagara County, NY","36063","September","9",132
+,"Niagara County, NY","36063","October","10",134
+,"Niagara County, NY","36063","November","11",137
+,"Niagara County, NY","36063","December","12",136
+"Total","Niagara County, NY","36063",,,1819
+,"Oneida County, NY","36065","January","1",192
+,"Oneida County, NY","36065","February","2",178
+,"Oneida County, NY","36065","March","3",189
+,"Oneida County, NY","36065","April","4",167
+,"Oneida County, NY","36065","May","5",163
+,"Oneida County, NY","36065","June","6",171
+,"Oneida County, NY","36065","July","7",196
+,"Oneida County, NY","36065","August","8",209
+,"Oneida County, NY","36065","September","9",190
+,"Oneida County, NY","36065","October","10",169
+,"Oneida County, NY","36065","November","11",163
+,"Oneida County, NY","36065","December","12",188
+"Total","Oneida County, NY","36065",,,2175
+,"Onondaga County, NY","36067","January","1",343
+,"Onondaga County, NY","36067","February","2",338
+,"Onondaga County, NY","36067","March","3",375
+,"Onondaga County, NY","36067","April","4",353
+,"Onondaga County, NY","36067","May","5",336
+,"Onondaga County, NY","36067","June","6",388
+,"Onondaga County, NY","36067","July","7",370
+,"Onondaga County, NY","36067","August","8",405
+,"Onondaga County, NY","36067","September","9",354
+,"Onondaga County, NY","36067","October","10",349
+,"Onondaga County, NY","36067","November","11",370
+,"Onondaga County, NY","36067","December","12",378
+"Total","Onondaga County, NY","36067",,,4359
+,"Ontario County, NY","36069","January","1",75
+,"Ontario County, NY","36069","February","2",72
+,"Ontario County, NY","36069","March","3",96
+,"Ontario County, NY","36069","April","4",67
+,"Ontario County, NY","36069","May","5",80
+,"Ontario County, NY","36069","June","6",91
+,"Ontario County, NY","36069","July","7",93
+,"Ontario County, NY","36069","August","8",81
+,"Ontario County, NY","36069","September","9",65
+,"Ontario County, NY","36069","October","10",77
+,"Ontario County, NY","36069","November","11",68
+,"Ontario County, NY","36069","December","12",102
+"Total","Ontario County, NY","36069",,,967
+,"Orange County, NY","36071","January","1",488
+,"Orange County, NY","36071","February","2",424
+,"Orange County, NY","36071","March","3",434
+,"Orange County, NY","36071","April","4",465
+,"Orange County, NY","36071","May","5",505
+,"Orange County, NY","36071","June","6",448
+,"Orange County, NY","36071","July","7",499
+,"Orange County, NY","36071","August","8",497
+,"Orange County, NY","36071","September","9",488
+,"Orange County, NY","36071","October","10",475
+,"Orange County, NY","36071","November","11",495
+,"Orange County, NY","36071","December","12",471
+"Total","Orange County, NY","36071",,,5689
+,"Oswego County, NY","36075","January","1",99
+,"Oswego County, NY","36075","February","2",89
+,"Oswego County, NY","36075","March","3",78
+,"Oswego County, NY","36075","April","4",95
+,"Oswego County, NY","36075","May","5",108
+,"Oswego County, NY","36075","June","6",86
+,"Oswego County, NY","36075","July","7",104
+,"Oswego County, NY","36075","August","8",112
+,"Oswego County, NY","36075","September","9",71
+,"Oswego County, NY","36075","October","10",96
+,"Oswego County, NY","36075","November","11",91
+,"Oswego County, NY","36075","December","12",102
+"Total","Oswego County, NY","36075",,,1131
+,"Queens County, NY","36081","January","1",1958
+,"Queens County, NY","36081","February","2",1924
+,"Queens County, NY","36081","March","3",2021
+,"Queens County, NY","36081","April","4",1895
+,"Queens County, NY","36081","May","5",2001
+,"Queens County, NY","36081","June","6",1927
+,"Queens County, NY","36081","July","7",2094
+,"Queens County, NY","36081","August","8",2251
+,"Queens County, NY","36081","September","9",1998
+,"Queens County, NY","36081","October","10",2062
+,"Queens County, NY","36081","November","11",2016
+,"Queens County, NY","36081","December","12",2026
+"Total","Queens County, NY","36081",,,24173
+,"Rensselaer County, NY","36083","January","1",147
+,"Rensselaer County, NY","36083","February","2",113
+,"Rensselaer County, NY","36083","March","3",111
+,"Rensselaer County, NY","36083","April","4",131
+,"Rensselaer County, NY","36083","May","5",138
+,"Rensselaer County, NY","36083","June","6",118
+,"Rensselaer County, NY","36083","July","7",139
+,"Rensselaer County, NY","36083","August","8",118
+,"Rensselaer County, NY","36083","September","9",120
+,"Rensselaer County, NY","36083","October","10",118
+,"Rensselaer County, NY","36083","November","11",109
+,"Rensselaer County, NY","36083","December","12",120
+"Total","Rensselaer County, NY","36083",,,1482
+,"Richmond County, NY","36085","January","1",382
+,"Richmond County, NY","36085","February","2",405
+,"Richmond County, NY","36085","March","3",400
+,"Richmond County, NY","36085","April","4",403
+,"Richmond County, NY","36085","May","5",475
+,"Richmond County, NY","36085","June","6",389
+,"Richmond County, NY","36085","July","7",440
+,"Richmond County, NY","36085","August","8",436
+,"Richmond County, NY","36085","September","9",397
+,"Richmond County, NY","36085","October","10",447
+,"Richmond County, NY","36085","November","11",407
+,"Richmond County, NY","36085","December","12",410
+"Total","Richmond County, NY","36085",,,4991
+,"Rockland County, NY","36087","January","1",599
+,"Rockland County, NY","36087","February","2",581
+,"Rockland County, NY","36087","March","3",557
+,"Rockland County, NY","36087","April","4",523
+,"Rockland County, NY","36087","May","5",583
+,"Rockland County, NY","36087","June","6",524
+,"Rockland County, NY","36087","July","7",621
+,"Rockland County, NY","36087","August","8",597
+,"Rockland County, NY","36087","September","9",585
+,"Rockland County, NY","36087","October","10",582
+,"Rockland County, NY","36087","November","11",571
+,"Rockland County, NY","36087","December","12",660
+"Total","Rockland County, NY","36087",,,6983
+,"Saratoga County, NY","36091","January","1",138
+,"Saratoga County, NY","36091","February","2",152
+,"Saratoga County, NY","36091","March","3",169
+,"Saratoga County, NY","36091","April","4",163
+,"Saratoga County, NY","36091","May","5",201
+,"Saratoga County, NY","36091","June","6",157
+,"Saratoga County, NY","36091","July","7",184
+,"Saratoga County, NY","36091","August","8",169
+,"Saratoga County, NY","36091","September","9",189
+,"Saratoga County, NY","36091","October","10",159
+,"Saratoga County, NY","36091","November","11",137
+,"Saratoga County, NY","36091","December","12",159
+"Total","Saratoga County, NY","36091",,,1977
+,"Schenectady County, NY","36093","January","1",127
+,"Schenectady County, NY","36093","February","2",137
+,"Schenectady County, NY","36093","March","3",141
+,"Schenectady County, NY","36093","April","4",149
+,"Schenectady County, NY","36093","May","5",145
+,"Schenectady County, NY","36093","June","6",155
+,"Schenectady County, NY","36093","July","7",135
+,"Schenectady County, NY","36093","August","8",167
+,"Schenectady County, NY","36093","September","9",111
+,"Schenectady County, NY","36093","October","10",128
+,"Schenectady County, NY","36093","November","11",150
+,"Schenectady County, NY","36093","December","12",146
+"Total","Schenectady County, NY","36093",,,1691
+,"Suffolk County, NY","36103","January","1",1248
+,"Suffolk County, NY","36103","February","2",1171
+,"Suffolk County, NY","36103","March","3",1285
+,"Suffolk County, NY","36103","April","4",1290
+,"Suffolk County, NY","36103","May","5",1417
+,"Suffolk County, NY","36103","June","6",1347
+,"Suffolk County, NY","36103","July","7",1450
+,"Suffolk County, NY","36103","August","8",1460
+,"Suffolk County, NY","36103","September","9",1332
+,"Suffolk County, NY","36103","October","10",1310
+,"Suffolk County, NY","36103","November","11",1189
+,"Suffolk County, NY","36103","December","12",1236
+"Total","Suffolk County, NY","36103",,,15735
+,"Tompkins County, NY","36109","January","1",58
+,"Tompkins County, NY","36109","February","2",41
+,"Tompkins County, NY","36109","March","3",50
+,"Tompkins County, NY","36109","April","4",67
+,"Tompkins County, NY","36109","May","5",57
+,"Tompkins County, NY","36109","June","6",48
+,"Tompkins County, NY","36109","July","7",42
+,"Tompkins County, NY","36109","August","8",55
+,"Tompkins County, NY","36109","September","9",53
+,"Tompkins County, NY","36109","October","10",52
+,"Tompkins County, NY","36109","November","11",35
+,"Tompkins County, NY","36109","December","12",55
+"Total","Tompkins County, NY","36109",,,613
+,"Ulster County, NY","36111","January","1",120
+,"Ulster County, NY","36111","February","2",98
+,"Ulster County, NY","36111","March","3",125
+,"Ulster County, NY","36111","April","4",119
+,"Ulster County, NY","36111","May","5",136
+,"Ulster County, NY","36111","June","6",113
+,"Ulster County, NY","36111","July","7",138
+,"Ulster County, NY","36111","August","8",116
+,"Ulster County, NY","36111","September","9",122
+,"Ulster County, NY","36111","October","10",112
+,"Ulster County, NY","36111","November","11",120
+,"Ulster County, NY","36111","December","12",119
+"Total","Ulster County, NY","36111",,,1438
+,"Westchester County, NY","36119","January","1",766
+,"Westchester County, NY","36119","February","2",781
+,"Westchester County, NY","36119","March","3",806
+,"Westchester County, NY","36119","April","4",826
+,"Westchester County, NY","36119","May","5",858
+,"Westchester County, NY","36119","June","6",808
+,"Westchester County, NY","36119","July","7",907
+,"Westchester County, NY","36119","August","8",850
+,"Westchester County, NY","36119","September","9",788
+,"Westchester County, NY","36119","October","10",851
+,"Westchester County, NY","36119","November","11",758
+,"Westchester County, NY","36119","December","12",795
+"Total","Westchester County, NY","36119",,,9794
+,"Unidentified Counties, NY","36999","January","1",523
+,"Unidentified Counties, NY","36999","February","2",466
+,"Unidentified Counties, NY","36999","March","3",598
+,"Unidentified Counties, NY","36999","April","4",529
+,"Unidentified Counties, NY","36999","May","5",537
+,"Unidentified Counties, NY","36999","June","6",553
+,"Unidentified Counties, NY","36999","July","7",580
+,"Unidentified Counties, NY","36999","August","8",567
+,"Unidentified Counties, NY","36999","September","9",515
+,"Unidentified Counties, NY","36999","October","10",547
+,"Unidentified Counties, NY","36999","November","11",546
+,"Unidentified Counties, NY","36999","December","12",505
+"Total","Unidentified Counties, NY","36999",,,6466
+,"Bell County, TX","48027","January","1",521
+,"Bell County, TX","48027","February","2",431
+,"Bell County, TX","48027","March","3",487
+,"Bell County, TX","48027","April","4",441
+,"Bell County, TX","48027","May","5",464
+,"Bell County, TX","48027","June","6",472
+,"Bell County, TX","48027","July","7",557
+,"Bell County, TX","48027","August","8",560
+,"Bell County, TX","48027","September","9",540
+,"Bell County, TX","48027","October","10",525
+,"Bell County, TX","48027","November","11",433
+,"Bell County, TX","48027","December","12",505
+"Total","Bell County, TX","48027",,,5936
+,"Bexar County, TX","48029","January","1",2252
+,"Bexar County, TX","48029","February","2",2137
+,"Bexar County, TX","48029","March","3",2155
+,"Bexar County, TX","48029","April","4",2067
+,"Bexar County, TX","48029","May","5",2143
+,"Bexar County, TX","48029","June","6",2021
+,"Bexar County, TX","48029","July","7",2346
+,"Bexar County, TX","48029","August","8",2386
+,"Bexar County, TX","48029","September","9",2353
+,"Bexar County, TX","48029","October","10",2382
+,"Bexar County, TX","48029","November","11",2209
+,"Bexar County, TX","48029","December","12",2339
+"Total","Bexar County, TX","48029",,,26790
+,"Brazoria County, TX","48039","January","1",404
+,"Brazoria County, TX","48039","February","2",396
+,"Brazoria County, TX","48039","March","3",400
+,"Brazoria County, TX","48039","April","4",330
+,"Brazoria County, TX","48039","May","5",392
+,"Brazoria County, TX","48039","June","6",351
+,"Brazoria County, TX","48039","July","7",408
+,"Brazoria County, TX","48039","August","8",422
+,"Brazoria County, TX","48039","September","9",414
+,"Brazoria County, TX","48039","October","10",399
+,"Brazoria County, TX","48039","November","11",392
+,"Brazoria County, TX","48039","December","12",452
+"Total","Brazoria County, TX","48039",,,4760
+,"Brazos County, TX","48041","January","1",215
+,"Brazos County, TX","48041","February","2",200
+,"Brazos County, TX","48041","March","3",215
+,"Brazos County, TX","48041","April","4",222
+,"Brazos County, TX","48041","May","5",232
+,"Brazos County, TX","48041","June","6",216
+,"Brazos County, TX","48041","July","7",212
+,"Brazos County, TX","48041","August","8",240
+,"Brazos County, TX","48041","September","9",244
+,"Brazos County, TX","48041","October","10",232
+,"Brazos County, TX","48041","November","11",211
+,"Brazos County, TX","48041","December","12",210
+"Total","Brazos County, TX","48041",,,2649
+,"Cameron County, TX","48061","January","1",498
+,"Cameron County, TX","48061","February","2",480
+,"Cameron County, TX","48061","March","3",403
+,"Cameron County, TX","48061","April","4",422
+,"Cameron County, TX","48061","May","5",498
+,"Cameron County, TX","48061","June","6",439
+,"Cameron County, TX","48061","July","7",509
+,"Cameron County, TX","48061","August","8",515
+,"Cameron County, TX","48061","September","9",525
+,"Cameron County, TX","48061","October","10",532
+,"Cameron County, TX","48061","November","11",477
+,"Cameron County, TX","48061","December","12",540
+"Total","Cameron County, TX","48061",,,5838
+,"Collin County, TX","48085","January","1",1150
+,"Collin County, TX","48085","February","2",1033
+,"Collin County, TX","48085","March","3",1049
+,"Collin County, TX","48085","April","4",1115
+,"Collin County, TX","48085","May","5",1077
+,"Collin County, TX","48085","June","6",1047
+,"Collin County, TX","48085","July","7",1201
+,"Collin County, TX","48085","August","8",1252
+,"Collin County, TX","48085","September","9",1196
+,"Collin County, TX","48085","October","10",1222
+,"Collin County, TX","48085","November","11",1116
+,"Collin County, TX","48085","December","12",1192
+"Total","Collin County, TX","48085",,,13650
+,"Comal County, TX","48091","January","1",178
+,"Comal County, TX","48091","February","2",174
+,"Comal County, TX","48091","March","3",179
+,"Comal County, TX","48091","April","4",164
+,"Comal County, TX","48091","May","5",168
+,"Comal County, TX","48091","June","6",177
+,"Comal County, TX","48091","July","7",188
+,"Comal County, TX","48091","August","8",206
+,"Comal County, TX","48091","September","9",181
+,"Comal County, TX","48091","October","10",219
+,"Comal County, TX","48091","November","11",176
+,"Comal County, TX","48091","December","12",193
+"Total","Comal County, TX","48091",,,2203
+,"Dallas County, TX","48113","January","1",3020
+,"Dallas County, TX","48113","February","2",2826
+,"Dallas County, TX","48113","March","3",2868
+,"Dallas County, TX","48113","April","4",2829
+,"Dallas County, TX","48113","May","5",2914
+,"Dallas County, TX","48113","June","6",2947
+,"Dallas County, TX","48113","July","7",3203
+,"Dallas County, TX","48113","August","8",3323
+,"Dallas County, TX","48113","September","9",3235
+,"Dallas County, TX","48113","October","10",3211
+,"Dallas County, TX","48113","November","11",3018
+,"Dallas County, TX","48113","December","12",3141
+"Total","Dallas County, TX","48113",,,36535
+,"Denton County, TX","48121","January","1",1010
+,"Denton County, TX","48121","February","2",939
+,"Denton County, TX","48121","March","3",995
+,"Denton County, TX","48121","April","4",993
+,"Denton County, TX","48121","May","5",986
+,"Denton County, TX","48121","June","6",947
+,"Denton County, TX","48121","July","7",1071
+,"Denton County, TX","48121","August","8",1085
+,"Denton County, TX","48121","September","9",999
+,"Denton County, TX","48121","October","10",996
+,"Denton County, TX","48121","November","11",976
+,"Denton County, TX","48121","December","12",1095
+"Total","Denton County, TX","48121",,,12092
+,"Ector County, TX","48135","January","1",277
+,"Ector County, TX","48135","February","2",242
+,"Ector County, TX","48135","March","3",260
+,"Ector County, TX","48135","April","4",214
+,"Ector County, TX","48135","May","5",233
+,"Ector County, TX","48135","June","6",225
+,"Ector County, TX","48135","July","7",273
+,"Ector County, TX","48135","August","8",310
+,"Ector County, TX","48135","September","9",282
+,"Ector County, TX","48135","October","10",281
+,"Ector County, TX","48135","November","11",257
+,"Ector County, TX","48135","December","12",259
+"Total","Ector County, TX","48135",,,3113
+,"Ellis County, TX","48139","January","1",235
+,"Ellis County, TX","48139","February","2",212
+,"Ellis County, TX","48139","March","3",238
+,"Ellis County, TX","48139","April","4",232
+,"Ellis County, TX","48139","May","5",219
+,"Ellis County, TX","48139","June","6",225
+,"Ellis County, TX","48139","July","7",254
+,"Ellis County, TX","48139","August","8",293
+,"Ellis County, TX","48139","September","9",264
+,"Ellis County, TX","48139","October","10",260
+,"Ellis County, TX","48139","November","11",229
+,"Ellis County, TX","48139","December","12",253
+"Total","Ellis County, TX","48139",,,2914
+,"El Paso County, TX","48141","January","1",917
+,"El Paso County, TX","48141","February","2",855
+,"El Paso County, TX","48141","March","3",867
+,"El Paso County, TX","48141","April","4",876
+,"El Paso County, TX","48141","May","5",860
+,"El Paso County, TX","48141","June","6",853
+,"El Paso County, TX","48141","July","7",978
+,"El Paso County, TX","48141","August","8",922
+,"El Paso County, TX","48141","September","9",896
+,"El Paso County, TX","48141","October","10",922
+,"El Paso County, TX","48141","November","11",880
+,"El Paso County, TX","48141","December","12",977
+"Total","El Paso County, TX","48141",,,10803
+,"Fort Bend County, TX","48157","January","1",764
+,"Fort Bend County, TX","48157","February","2",727
+,"Fort Bend County, TX","48157","March","3",747
+,"Fort Bend County, TX","48157","April","4",716
+,"Fort Bend County, TX","48157","May","5",780
+,"Fort Bend County, TX","48157","June","6",752
+,"Fort Bend County, TX","48157","July","7",835
+,"Fort Bend County, TX","48157","August","8",835
+,"Fort Bend County, TX","48157","September","9",799
+,"Fort Bend County, TX","48157","October","10",875
+,"Fort Bend County, TX","48157","November","11",732
+,"Fort Bend County, TX","48157","December","12",838
+"Total","Fort Bend County, TX","48157",,,9400
+,"Galveston County, TX","48167","January","1",334
+,"Galveston County, TX","48167","February","2",315
+,"Galveston County, TX","48167","March","3",323
+,"Galveston County, TX","48167","April","4",312
+,"Galveston County, TX","48167","May","5",329
+,"Galveston County, TX","48167","June","6",317
+,"Galveston County, TX","48167","July","7",338
+,"Galveston County, TX","48167","August","8",339
+,"Galveston County, TX","48167","September","9",329
+,"Galveston County, TX","48167","October","10",334
+,"Galveston County, TX","48167","November","11",299
+,"Galveston County, TX","48167","December","12",370
+"Total","Galveston County, TX","48167",,,3939
+,"Grayson County, TX","48181","January","1",150
+,"Grayson County, TX","48181","February","2",126
+,"Grayson County, TX","48181","March","3",150
+,"Grayson County, TX","48181","April","4",129
+,"Grayson County, TX","48181","May","5",143
+,"Grayson County, TX","48181","June","6",164
+,"Grayson County, TX","48181","July","7",153
+,"Grayson County, TX","48181","August","8",172
+,"Grayson County, TX","48181","September","9",157
+,"Grayson County, TX","48181","October","10",153
+,"Grayson County, TX","48181","November","11",147
+,"Grayson County, TX","48181","December","12",144
+"Total","Grayson County, TX","48181",,,1788
+,"Gregg County, TX","48183","January","1",137
+,"Gregg County, TX","48183","February","2",119
+,"Gregg County, TX","48183","March","3",118
+,"Gregg County, TX","48183","April","4",122
+,"Gregg County, TX","48183","May","5",121
+,"Gregg County, TX","48183","June","6",124
+,"Gregg County, TX","48183","July","7",157
+,"Gregg County, TX","48183","August","8",165
+,"Gregg County, TX","48183","September","9",162
+,"Gregg County, TX","48183","October","10",163
+,"Gregg County, TX","48183","November","11",114
+,"Gregg County, TX","48183","December","12",151
+"Total","Gregg County, TX","48183",,,1653
+,"Guadalupe County, TX","48187","January","1",174
+,"Guadalupe County, TX","48187","February","2",182
+,"Guadalupe County, TX","48187","March","3",179
+,"Guadalupe County, TX","48187","April","4",157
+,"Guadalupe County, TX","48187","May","5",177
+,"Guadalupe County, TX","48187","June","6",159
+,"Guadalupe County, TX","48187","July","7",206
+,"Guadalupe County, TX","48187","August","8",225
+,"Guadalupe County, TX","48187","September","9",221
+,"Guadalupe County, TX","48187","October","10",212
+,"Guadalupe County, TX","48187","November","11",178
+,"Guadalupe County, TX","48187","December","12",214
+"Total","Guadalupe County, TX","48187",,,2284
+,"Harris County, TX","48201","January","1",5366
+,"Harris County, TX","48201","February","2",4881
+,"Harris County, TX","48201","March","3",5027
+,"Harris County, TX","48201","April","4",4777
+,"Harris County, TX","48201","May","5",5151
+,"Harris County, TX","48201","June","6",5119
+,"Harris County, TX","48201","July","7",5577
+,"Harris County, TX","48201","August","8",5814
+,"Harris County, TX","48201","September","9",5474
+,"Harris County, TX","48201","October","10",5641
+,"Harris County, TX","48201","November","11",5389
+,"Harris County, TX","48201","December","12",5613
+"Total","Harris County, TX","48201",,,63829
+,"Hays County, TX","48209","January","1",278
+,"Hays County, TX","48209","February","2",311
+,"Hays County, TX","48209","March","3",267
+,"Hays County, TX","48209","April","4",261
+,"Hays County, TX","48209","May","5",307
+,"Hays County, TX","48209","June","6",282
+,"Hays County, TX","48209","July","7",309
+,"Hays County, TX","48209","August","8",347
+,"Hays County, TX","48209","September","9",314
+,"Hays County, TX","48209","October","10",341
+,"Hays County, TX","48209","November","11",332
+,"Hays County, TX","48209","December","12",321
+"Total","Hays County, TX","48209",,,3670
+,"Hidalgo County, TX","48215","January","1",1145
+,"Hidalgo County, TX","48215","February","2",1026
+,"Hidalgo County, TX","48215","March","3",995
+,"Hidalgo County, TX","48215","April","4",1067
+,"Hidalgo County, TX","48215","May","5",1066
+,"Hidalgo County, TX","48215","June","6",1042
+,"Hidalgo County, TX","48215","July","7",1199
+,"Hidalgo County, TX","48215","August","8",1253
+,"Hidalgo County, TX","48215","September","9",1325
+,"Hidalgo County, TX","48215","October","10",1239
+,"Hidalgo County, TX","48215","November","11",1179
+,"Hidalgo County, TX","48215","December","12",1204
+"Total","Hidalgo County, TX","48215",,,13740
+,"Jefferson County, TX","48245","January","1",252
+,"Jefferson County, TX","48245","February","2",238
+,"Jefferson County, TX","48245","March","3",238
+,"Jefferson County, TX","48245","April","4",221
+,"Jefferson County, TX","48245","May","5",227
+,"Jefferson County, TX","48245","June","6",248
+,"Jefferson County, TX","48245","July","7",263
+,"Jefferson County, TX","48245","August","8",287
+,"Jefferson County, TX","48245","September","9",273
+,"Jefferson County, TX","48245","October","10",277
+,"Jefferson County, TX","48245","November","11",250
+,"Jefferson County, TX","48245","December","12",297
+"Total","Jefferson County, TX","48245",,,3071
+,"Johnson County, TX","48251","January","1",219
+,"Johnson County, TX","48251","February","2",220
+,"Johnson County, TX","48251","March","3",182
+,"Johnson County, TX","48251","April","4",208
+,"Johnson County, TX","48251","May","5",222
+,"Johnson County, TX","48251","June","6",229
+,"Johnson County, TX","48251","July","7",237
+,"Johnson County, TX","48251","August","8",240
+,"Johnson County, TX","48251","September","9",214
+,"Johnson County, TX","48251","October","10",218
+,"Johnson County, TX","48251","November","11",194
+,"Johnson County, TX","48251","December","12",230
+"Total","Johnson County, TX","48251",,,2613
+,"Kaufman County, TX","48257","January","1",236
+,"Kaufman County, TX","48257","February","2",246
+,"Kaufman County, TX","48257","March","3",230
+,"Kaufman County, TX","48257","April","4",248
+,"Kaufman County, TX","48257","May","5",228
+,"Kaufman County, TX","48257","June","6",214
+,"Kaufman County, TX","48257","July","7",271
+,"Kaufman County, TX","48257","August","8",297
+,"Kaufman County, TX","48257","September","9",234
+,"Kaufman County, TX","48257","October","10",275
+,"Kaufman County, TX","48257","November","11",246
+,"Kaufman County, TX","48257","December","12",268
+"Total","Kaufman County, TX","48257",,,2993
+,"Lubbock County, TX","48303","January","1",337
+,"Lubbock County, TX","48303","February","2",341
+,"Lubbock County, TX","48303","March","3",361
+,"Lubbock County, TX","48303","April","4",356
+,"Lubbock County, TX","48303","May","5",342
+,"Lubbock County, TX","48303","June","6",317
+,"Lubbock County, TX","48303","July","7",346
+,"Lubbock County, TX","48303","August","8",352
+,"Lubbock County, TX","48303","September","9",401
+,"Lubbock County, TX","48303","October","10",393
+,"Lubbock County, TX","48303","November","11",345
+,"Lubbock County, TX","48303","December","12",351
+"Total","Lubbock County, TX","48303",,,4242
+,"McLennan County, TX","48309","January","1",283
+,"McLennan County, TX","48309","February","2",277
+,"McLennan County, TX","48309","March","3",292
+,"McLennan County, TX","48309","April","4",249
+,"McLennan County, TX","48309","May","5",254
+,"McLennan County, TX","48309","June","6",274
+,"McLennan County, TX","48309","July","7",240
+,"McLennan County, TX","48309","August","8",284
+,"McLennan County, TX","48309","September","9",286
+,"McLennan County, TX","48309","October","10",303
+,"McLennan County, TX","48309","November","11",280
+,"McLennan County, TX","48309","December","12",308
+"Total","McLennan County, TX","48309",,,3330
+,"Midland County, TX","48329","January","1",260
+,"Midland County, TX","48329","February","2",257
+,"Midland County, TX","48329","March","3",239
+,"Midland County, TX","48329","April","4",249
+,"Midland County, TX","48329","May","5",276
+,"Midland County, TX","48329","June","6",277
+,"Midland County, TX","48329","July","7",288
+,"Midland County, TX","48329","August","8",296
+,"Midland County, TX","48329","September","9",284
+,"Midland County, TX","48329","October","10",266
+,"Midland County, TX","48329","November","11",273
+,"Midland County, TX","48329","December","12",278
+"Total","Midland County, TX","48329",,,3243
+,"Montgomery County, TX","48339","January","1",725
+,"Montgomery County, TX","48339","February","2",670
+,"Montgomery County, TX","48339","March","3",731
+,"Montgomery County, TX","48339","April","4",709
+,"Montgomery County, TX","48339","May","5",801
+,"Montgomery County, TX","48339","June","6",704
+,"Montgomery County, TX","48339","July","7",825
+,"Montgomery County, TX","48339","August","8",847
+,"Montgomery County, TX","48339","September","9",810
+,"Montgomery County, TX","48339","October","10",849
+,"Montgomery County, TX","48339","November","11",731
+,"Montgomery County, TX","48339","December","12",818
+"Total","Montgomery County, TX","48339",,,9220
+,"Nueces County, TX","48355","January","1",349
+,"Nueces County, TX","48355","February","2",318
+,"Nueces County, TX","48355","March","3",311
+,"Nueces County, TX","48355","April","4",308
+,"Nueces County, TX","48355","May","5",334
+,"Nueces County, TX","48355","June","6",362
+,"Nueces County, TX","48355","July","7",372
+,"Nueces County, TX","48355","August","8",414
+,"Nueces County, TX","48355","September","9",352
+,"Nueces County, TX","48355","October","10",387
+,"Nueces County, TX","48355","November","11",357
+,"Nueces County, TX","48355","December","12",387
+"Total","Nueces County, TX","48355",,,4251
+,"Parker County, TX","48367","January","1",166
+,"Parker County, TX","48367","February","2",164
+,"Parker County, TX","48367","March","3",179
+,"Parker County, TX","48367","April","4",178
+,"Parker County, TX","48367","May","5",178
+,"Parker County, TX","48367","June","6",190
+,"Parker County, TX","48367","July","7",183
+,"Parker County, TX","48367","August","8",189
+,"Parker County, TX","48367","September","9",176
+,"Parker County, TX","48367","October","10",160
+,"Parker County, TX","48367","November","11",169
+,"Parker County, TX","48367","December","12",164
+"Total","Parker County, TX","48367",,,2096
+,"Potter County, TX","48375","January","1",134
+,"Potter County, TX","48375","February","2",136
+,"Potter County, TX","48375","March","3",134
+,"Potter County, TX","48375","April","4",97
+,"Potter County, TX","48375","May","5",122
+,"Potter County, TX","48375","June","6",128
+,"Potter County, TX","48375","July","7",139
+,"Potter County, TX","48375","August","8",136
+,"Potter County, TX","48375","September","9",118
+,"Potter County, TX","48375","October","10",142
+,"Potter County, TX","48375","November","11",104
+,"Potter County, TX","48375","December","12",110
+"Total","Potter County, TX","48375",,,1500
+,"Randall County, TX","48381","January","1",129
+,"Randall County, TX","48381","February","2",161
+,"Randall County, TX","48381","March","3",161
+,"Randall County, TX","48381","April","4",134
+,"Randall County, TX","48381","May","5",156
+,"Randall County, TX","48381","June","6",139
+,"Randall County, TX","48381","July","7",179
+,"Randall County, TX","48381","August","8",143
+,"Randall County, TX","48381","September","9",135
+,"Randall County, TX","48381","October","10",137
+,"Randall County, TX","48381","November","11",146
+,"Randall County, TX","48381","December","12",160
+"Total","Randall County, TX","48381",,,1780
+,"Smith County, TX","48423","January","1",257
+,"Smith County, TX","48423","February","2",242
+,"Smith County, TX","48423","March","3",250
+,"Smith County, TX","48423","April","4",245
+,"Smith County, TX","48423","May","5",267
+,"Smith County, TX","48423","June","6",242
+,"Smith County, TX","48423","July","7",281
+,"Smith County, TX","48423","August","8",277
+,"Smith County, TX","48423","September","9",286
+,"Smith County, TX","48423","October","10",277
+,"Smith County, TX","48423","November","11",250
+,"Smith County, TX","48423","December","12",287
+"Total","Smith County, TX","48423",,,3161
+,"Tarrant County, TX","48439","January","1",2267
+,"Tarrant County, TX","48439","February","2",2144
+,"Tarrant County, TX","48439","March","3",2194
+,"Tarrant County, TX","48439","April","4",2232
+,"Tarrant County, TX","48439","May","5",2251
+,"Tarrant County, TX","48439","June","6",2136
+,"Tarrant County, TX","48439","July","7",2405
+,"Tarrant County, TX","48439","August","8",2446
+,"Tarrant County, TX","48439","September","9",2373
+,"Tarrant County, TX","48439","October","10",2472
+,"Tarrant County, TX","48439","November","11",2173
+,"Tarrant County, TX","48439","December","12",2387
+"Total","Tarrant County, TX","48439",,,27480
+,"Taylor County, TX","48441","January","1",155
+,"Taylor County, TX","48441","February","2",137
+,"Taylor County, TX","48441","March","3",156
+,"Taylor County, TX","48441","April","4",148
+,"Taylor County, TX","48441","May","5",166
+,"Taylor County, TX","48441","June","6",156
+,"Taylor County, TX","48441","July","7",175
+,"Taylor County, TX","48441","August","8",177
+,"Taylor County, TX","48441","September","9",172
+,"Taylor County, TX","48441","October","10",165
+,"Taylor County, TX","48441","November","11",142
+,"Taylor County, TX","48441","December","12",173
+"Total","Taylor County, TX","48441",,,1922
+,"Tom Green County, TX","48451","January","1",122
+,"Tom Green County, TX","48451","February","2",112
+,"Tom Green County, TX","48451","March","3",112
+,"Tom Green County, TX","48451","April","4",138
+,"Tom Green County, TX","48451","May","5",127
+,"Tom Green County, TX","48451","June","6",87
+,"Tom Green County, TX","48451","July","7",128
+,"Tom Green County, TX","48451","August","8",135
+,"Tom Green County, TX","48451","September","9",139
+,"Tom Green County, TX","48451","October","10",117
+,"Tom Green County, TX","48451","November","11",127
+,"Tom Green County, TX","48451","December","12",136
+"Total","Tom Green County, TX","48451",,,1480
+,"Travis County, TX","48453","January","1",1410
+,"Travis County, TX","48453","February","2",1237
+,"Travis County, TX","48453","March","3",1312
+,"Travis County, TX","48453","April","4",1230
+,"Travis County, TX","48453","May","5",1357
+,"Travis County, TX","48453","June","6",1325
+,"Travis County, TX","48453","July","7",1490
+,"Travis County, TX","48453","August","8",1527
+,"Travis County, TX","48453","September","9",1483
+,"Travis County, TX","48453","October","10",1489
+,"Travis County, TX","48453","November","11",1414
+,"Travis County, TX","48453","December","12",1403
+"Total","Travis County, TX","48453",,,16677
+,"Webb County, TX","48479","January","1",349
+,"Webb County, TX","48479","February","2",345
+,"Webb County, TX","48479","March","3",308
+,"Webb County, TX","48479","April","4",347
+,"Webb County, TX","48479","May","5",356
+,"Webb County, TX","48479","June","6",315
+,"Webb County, TX","48479","July","7",405
+,"Webb County, TX","48479","August","8",437
+,"Webb County, TX","48479","September","9",356
+,"Webb County, TX","48479","October","10",406
+,"Webb County, TX","48479","November","11",358
+,"Webb County, TX","48479","December","12",396
+"Total","Webb County, TX","48479",,,4378
+,"Wichita County, TX","48485","January","1",130
+,"Wichita County, TX","48485","February","2",101
+,"Wichita County, TX","48485","March","3",118
+,"Wichita County, TX","48485","April","4",125
+,"Wichita County, TX","48485","May","5",133
+,"Wichita County, TX","48485","June","6",126
+,"Wichita County, TX","48485","July","7",134
+,"Wichita County, TX","48485","August","8",147
+,"Wichita County, TX","48485","September","9",131
+,"Wichita County, TX","48485","October","10",118
+,"Wichita County, TX","48485","November","11",105
+,"Wichita County, TX","48485","December","12",134
+"Total","Wichita County, TX","48485",,,1502
+,"Williamson County, TX","48491","January","1",732
+,"Williamson County, TX","48491","February","2",704
+,"Williamson County, TX","48491","March","3",751
+,"Williamson County, TX","48491","April","4",712
+,"Williamson County, TX","48491","May","5",810
+,"Williamson County, TX","48491","June","6",678
+,"Williamson County, TX","48491","July","7",820
+,"Williamson County, TX","48491","August","8",872
+,"Williamson County, TX","48491","September","9",809
+,"Williamson County, TX","48491","October","10",834
+,"Williamson County, TX","48491","November","11",793
+,"Williamson County, TX","48491","December","12",810
+"Total","Williamson County, TX","48491",,,9325
+,"Unidentified Counties, TX","48999","January","1",1800
+,"Unidentified Counties, TX","48999","February","2",1756
+,"Unidentified Counties, TX","48999","March","3",1803
+,"Unidentified Counties, TX","48999","April","4",1728
+,"Unidentified Counties, TX","48999","May","5",1769
+,"Unidentified Counties, TX","48999","June","6",1775
+,"Unidentified Counties, TX","48999","July","7",2062
+,"Unidentified Counties, TX","48999","August","8",2089
+,"Unidentified Counties, TX","48999","September","9",1923
+,"Unidentified Counties, TX","48999","October","10",2072
+,"Unidentified Counties, TX","48999","November","11",1865
+,"Unidentified Counties, TX","48999","December","12",2002
+"Total","Unidentified Counties, TX","48999",,,22644
+,"Benton County, WA","53005","January","1",203
+,"Benton County, WA","53005","February","2",201
+,"Benton County, WA","53005","March","3",227
+,"Benton County, WA","53005","April","4",201
+,"Benton County, WA","53005","May","5",206
+,"Benton County, WA","53005","June","6",230
+,"Benton County, WA","53005","July","7",235
+,"Benton County, WA","53005","August","8",245
+,"Benton County, WA","53005","September","9",222
+,"Benton County, WA","53005","October","10",223
+,"Benton County, WA","53005","November","11",217
+,"Benton County, WA","53005","December","12",208
+"Total","Benton County, WA","53005",,,2618
+,"Clark County, WA","53011","January","1",427
+,"Clark County, WA","53011","February","2",478
+,"Clark County, WA","53011","March","3",467
+,"Clark County, WA","53011","April","4",472
+,"Clark County, WA","53011","May","5",482
+,"Clark County, WA","53011","June","6",466
+,"Clark County, WA","53011","July","7",484
+,"Clark County, WA","53011","August","8",536
+,"Clark County, WA","53011","September","9",494
+,"Clark County, WA","53011","October","10",468
+,"Clark County, WA","53011","November","11",444
+,"Clark County, WA","53011","December","12",451
+"Total","Clark County, WA","53011",,,5669
+,"Cowlitz County, WA","53015","January","1",108
+,"Cowlitz County, WA","53015","February","2",107
+,"Cowlitz County, WA","53015","March","3",101
+,"Cowlitz County, WA","53015","April","4",91
+,"Cowlitz County, WA","53015","May","5",99
+,"Cowlitz County, WA","53015","June","6",100
+,"Cowlitz County, WA","53015","July","7",110
+,"Cowlitz County, WA","53015","August","8",113
+,"Cowlitz County, WA","53015","September","9",97
+,"Cowlitz County, WA","53015","October","10",109
+,"Cowlitz County, WA","53015","November","11",98
+,"Cowlitz County, WA","53015","December","12",107
+"Total","Cowlitz County, WA","53015",,,1240
+,"King County, WA","53033","January","1",1860
+,"King County, WA","53033","February","2",1700
+,"King County, WA","53033","March","3",1975
+,"King County, WA","53033","April","4",1806
+,"King County, WA","53033","May","5",1995
+,"King County, WA","53033","June","6",1886
+,"King County, WA","53033","July","7",1992
+,"King County, WA","53033","August","8",2009
+,"King County, WA","53033","September","9",1893
+,"King County, WA","53033","October","10",2009
+,"King County, WA","53033","November","11",1897
+,"King County, WA","53033","December","12",1926
+"Total","King County, WA","53033",,,22948
+,"Kitsap County, WA","53035","January","1",205
+,"Kitsap County, WA","53035","February","2",206
+,"Kitsap County, WA","53035","March","3",223
+,"Kitsap County, WA","53035","April","4",248
+,"Kitsap County, WA","53035","May","5",240
+,"Kitsap County, WA","53035","June","6",215
+,"Kitsap County, WA","53035","July","7",259
+,"Kitsap County, WA","53035","August","8",225
+,"Kitsap County, WA","53035","September","9",244
+,"Kitsap County, WA","53035","October","10",255
+,"Kitsap County, WA","53035","November","11",222
+,"Kitsap County, WA","53035","December","12",240
+"Total","Kitsap County, WA","53035",,,2782
+,"Pierce County, WA","53053","January","1",855
+,"Pierce County, WA","53053","February","2",849
+,"Pierce County, WA","53053","March","3",873
+,"Pierce County, WA","53053","April","4",813
+,"Pierce County, WA","53053","May","5",934
+,"Pierce County, WA","53053","June","6",907
+,"Pierce County, WA","53053","July","7",930
+,"Pierce County, WA","53053","August","8",939
+,"Pierce County, WA","53053","September","9",845
+,"Pierce County, WA","53053","October","10",880
+,"Pierce County, WA","53053","November","11",839
+,"Pierce County, WA","53053","December","12",854
+"Total","Pierce County, WA","53053",,,10518
+,"Skagit County, WA","53057","January","1",113
+,"Skagit County, WA","53057","February","2",109
+,"Skagit County, WA","53057","March","3",111
+,"Skagit County, WA","53057","April","4",124
+,"Skagit County, WA","53057","May","5",122
+,"Skagit County, WA","53057","June","6",102
+,"Skagit County, WA","53057","July","7",106
+,"Skagit County, WA","53057","August","8",108
+,"Skagit County, WA","53057","September","9",105
+,"Skagit County, WA","53057","October","10",114
+,"Skagit County, WA","53057","November","11",112
+,"Skagit County, WA","53057","December","12",104
+"Total","Skagit County, WA","53057",,,1330
+,"Snohomish County, WA","53061","January","1",749
+,"Snohomish County, WA","53061","February","2",777
+,"Snohomish County, WA","53061","March","3",824
+,"Snohomish County, WA","53061","April","4",798
+,"Snohomish County, WA","53061","May","5",869
+,"Snohomish County, WA","53061","June","6",831
+,"Snohomish County, WA","53061","July","7",874
+,"Snohomish County, WA","53061","August","8",913
+,"Snohomish County, WA","53061","September","9",844
+,"Snohomish County, WA","53061","October","10",838
+,"Snohomish County, WA","53061","November","11",782
+,"Snohomish County, WA","53061","December","12",750
+"Total","Snohomish County, WA","53061",,,9849
+,"Spokane County, WA","53063","January","1",467
+,"Spokane County, WA","53063","February","2",446
+,"Spokane County, WA","53063","March","3",488
+,"Spokane County, WA","53063","April","4",491
+,"Spokane County, WA","53063","May","5",503
+,"Spokane County, WA","53063","June","6",518
+,"Spokane County, WA","53063","July","7",536
+,"Spokane County, WA","53063","August","8",558
+,"Spokane County, WA","53063","September","9",497
+,"Spokane County, WA","53063","October","10",549
+,"Spokane County, WA","53063","November","11",492
+,"Spokane County, WA","53063","December","12",473
+"Total","Spokane County, WA","53063",,,6018
+,"Thurston County, WA","53067","January","1",239
+,"Thurston County, WA","53067","February","2",247
+,"Thurston County, WA","53067","March","3",276
+,"Thurston County, WA","53067","April","4",216
+,"Thurston County, WA","53067","May","5",259
+,"Thurston County, WA","53067","June","6",231
+,"Thurston County, WA","53067","July","7",237
+,"Thurston County, WA","53067","August","8",274
+,"Thurston County, WA","53067","September","9",258
+,"Thurston County, WA","53067","October","10",290
+,"Thurston County, WA","53067","November","11",236
+,"Thurston County, WA","53067","December","12",228
+"Total","Thurston County, WA","53067",,,2991
+,"Whatcom County, WA","53073","January","1",168
+,"Whatcom County, WA","53073","February","2",153
+,"Whatcom County, WA","53073","March","3",179
+,"Whatcom County, WA","53073","April","4",180
+,"Whatcom County, WA","53073","May","5",185
+,"Whatcom County, WA","53073","June","6",175
+,"Whatcom County, WA","53073","July","7",182
+,"Whatcom County, WA","53073","August","8",213
+,"Whatcom County, WA","53073","September","9",149
+,"Whatcom County, WA","53073","October","10",147
+,"Whatcom County, WA","53073","November","11",141
+,"Whatcom County, WA","53073","December","12",152
+"Total","Whatcom County, WA","53073",,,2024
+,"Yakima County, WA","53077","January","1",288
+,"Yakima County, WA","53077","February","2",257
+,"Yakima County, WA","53077","March","3",264
+,"Yakima County, WA","53077","April","4",270
+,"Yakima County, WA","53077","May","5",298
+,"Yakima County, WA","53077","June","6",297
+,"Yakima County, WA","53077","July","7",307
+,"Yakima County, WA","53077","August","8",327
+,"Yakima County, WA","53077","September","9",266
+,"Yakima County, WA","53077","October","10",250
+,"Yakima County, WA","53077","November","11",281
+,"Yakima County, WA","53077","December","12",273
+"Total","Yakima County, WA","53077",,,3378
+,"Unidentified Counties, WA","53999","January","1",339
+,"Unidentified Counties, WA","53999","February","2",295
+,"Unidentified Counties, WA","53999","March","3",354
+,"Unidentified Counties, WA","53999","April","4",343
+,"Unidentified Counties, WA","53999","May","5",378
+,"Unidentified Counties, WA","53999","June","6",358
+,"Unidentified Counties, WA","53999","July","7",393
+,"Unidentified Counties, WA","53999","August","8",379
+,"Unidentified Counties, WA","53999","September","9",360
+,"Unidentified Counties, WA","53999","October","10",380
+,"Unidentified Counties, WA","53999","November","11",328
+,"Unidentified Counties, WA","53999","December","12",337
+"Total","Unidentified Counties, WA","53999",,,4244
+"Total",,,,,1346791
+"---"
+"Dataset: Natality, 2016-2024 expanded"
+"Query Parameters:"
+"2013 Metro/Nonmetro: Metro"
+"States: California (06); Florida (12); Illinois (17); New York (36); Texas (48); Washington (53)"
+"Year: 2024"
+"Group By: County of Residence; Month"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality-expanded.html for more information."
+"---"
+"Query Date: Apr 7, 2026 5:37:04 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2024, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on Apr 7, 2026 5:37:04 PM"
+"---"
+Messages:
+"1. Rows with zero Births are hidden. Use Quick Options above to show zero rows."
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."
+"2. County-level data are shown only for counties with populations of 100,000 persons or more. Within each state, data for all"
+"counties with fewer than 100,000 persons are combined together under the label ""Unidentified Counties."""
+"3. Bronx, New York (FIPS code 36005) represents Bronx Borough, New York City."
+"4. Kings County, New York (FIPS code 36047) represents Brooklyn Borough, New York City."
+"5. New York County, New York (FIPS code 36061) represents Manhattan Borough, New York City."
+"6. Queens, New York (FIPS code 36081) represents Queens Borough, New York City."
+"7. Richmond County, New York (FIPS code 36085) represents Staten Island Borough, New York City."

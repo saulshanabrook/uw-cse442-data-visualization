@@ -1,0 +1,11 @@
+{
+ "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+ "data": {"url": "https://cdn.githubraw.com/saulshanabrook/4537aeaa8fa431d4b640f94d9bf7699d/raw/6031ac7a6b2f9a2d0bdddba5b125d98614052d8d/sunshine.json",
+ "format": {"type": "csv"}},
+ "mark": { "type": "line" },
+ "encoding": {
+   "x": {"field": "month_num", "type": "quantitative"},
+   "y": {"field": "sunshine_hours", "type": "quantitative"},
+   "color": {"field": "city", "type": "nominal"}
+ }
+}

@@ -1,0 +1,173 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "Conceptualized conception share by sunshine hours using public sunshine and natality sources.",
+  "width": 720,
+  "height": 420,
+  "title": {
+    "text": "Are people more likely to conceive during sunnier months?",
+    "subtitle": "Birth month counts are shifted back nine months, normalized within each city, and plotted against monthly sunshine hours.",
+    "anchor": "start"
+  },
+  "layer": [
+    {
+      "data": {
+        "name": "sunshineRaw",
+        "url": "https://cdn.githubraw.com/saulshanabrook/4537aeaa8fa431d4b640f94d9bf7699d/raw/6031ac7a6b2f9a2d0bdddba5b125d98614052d8d/sunshine.json",
+        "format": {
+          "type": "csv"
+        }
+      },
+      "mark": {
+        "type": "point",
+        "opacity": 0
+      },
+      "encoding": {
+        "x": {
+          "value": 0
+        },
+        "y": {
+          "value": 0
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "https://cdn.githubraw.com/saulshanabrook/758129a0f5fb980eef6263fcd8828caa/raw/e904065ee08d33c592e464411e4b9b630896c1cc/Natality%2C%202016-2024%20expanded%20(1).csv",
+        "format": {
+          "type": "csv"
+        }
+      },
+      "transform": [
+        {
+          "filter": "datum['Month Code'] !== null && datum['Month Code'] !== '' && datum.Births !== null && datum.Births !== ''"
+        },
+        {
+          "calculate": "datum['County of Residence'] === 'King County, WA' ? 'Seattle' : datum['County of Residence'] === 'San Francisco County, CA' ? 'San Francisco' : datum['County of Residence'] === 'Cook County, IL' ? 'Chicago' : datum['County of Residence'] === 'Harris County, TX' ? 'Houston' : datum['County of Residence'] === 'Miami-Dade County, FL' ? 'Miami' : datum['County of Residence'] === 'New York County, NY' || datum['County of Residence'] === 'Kings County, NY' || datum['County of Residence'] === 'Queens County, NY' || datum['County of Residence'] === 'Bronx County, NY' || datum['County of Residence'] === 'Richmond County, NY' ? 'New York' : null",
+          "as": "city"
+        },
+        {
+          "filter": "datum.city !== null"
+        },
+        {
+          "calculate": "(toNumber(datum['Month Code']) + 2) % 12",
+          "as": "conception_month_num"
+        },
+        {
+          "aggregate": [
+            {
+              "op": "sum",
+              "field": "Births",
+              "as": "conceptions"
+            }
+          ],
+          "groupby": [
+            "city",
+            "conception_month_num"
+          ]
+        },
+        {
+          "joinaggregate": [
+            {
+              "op": "sum",
+              "field": "conceptions",
+              "as": "city_total_conceptions"
+            }
+          ],
+          "groupby": [
+            "city"
+          ]
+        },
+        {
+          "calculate": "datum.conceptions / datum.city_total_conceptions * 100",
+          "as": "conception_share"
+        },
+        {
+          "calculate": "timeFormat(datetime(2000, datum.conception_month_num, 1), '%b')",
+          "as": "conception_month"
+        },
+        {
+          "calculate": "indexof(pluck(data('sunshineRaw'), 'city'), datum.city)",
+          "as": "sunshine_city_offset"
+        },
+        {
+          "calculate": "datum.sunshine_city_offset >= 0 ? toNumber(pluck(data('sunshineRaw'), 'sunshine_hours')[datum.sunshine_city_offset + datum.conception_month_num]) : null",
+          "as": "sunshine_hours"
+        }
+      ],
+      "mark": {
+        "type": "line",
+        "point": true,
+        "strokeWidth": 2.5
+      },
+      "encoding": {
+        "x": {
+          "field": "sunshine_hours",
+          "type": "quantitative",
+          "title": "Sunshine hours in conception month"
+        },
+        "y": {
+          "field": "conception_share",
+          "type": "quantitative",
+          "title": "Share of annual conceptions in city (%)",
+          "scale": {
+            "zero": false
+          },
+          "axis": {
+            "format": ".1f"
+          }
+        },
+        "color": {
+          "field": "city",
+          "type": "nominal",
+          "title": "City"
+        },
+        "order": {
+          "field": "sunshine_hours",
+          "type": "quantitative"
+        },
+        "tooltip": [
+          {
+            "field": "city",
+            "type": "nominal",
+            "title": "City"
+          },
+          {
+            "field": "conception_month",
+            "type": "nominal",
+            "title": "Conception month"
+          },
+          {
+            "field": "sunshine_hours",
+            "type": "quantitative",
+            "title": "Sunshine hours"
+          },
+          {
+            "field": "conception_share",
+            "type": "quantitative",
+            "title": "Conception share (%)",
+            "format": ".2f"
+          },
+          {
+            "field": "conceptions",
+            "type": "quantitative",
+            "title": "Estimated conceptions",
+            "format": ",.0f"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 13
+    },
+    "legend": {
+      "labelFontSize": 12,
+      "titleFontSize": 13
+    }
+  }
+}

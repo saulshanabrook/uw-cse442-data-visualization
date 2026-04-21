@@ -1,0 +1,198 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
+  "description": "A deliberately misleading earnings chart that exaggerates differences by truncating the quantitative axis.",
+  "width": 760,
+  "height": {
+    "step": 46
+  },
+  "title": {
+    "text": "Median Earnings by Sex and Race/Ethnicity",
+    "subtitle": "Deceptive version: the x-axis is truncated to exaggerate differences.",
+    "anchor": "start"
+  },
+  "data": {
+    "values": [
+      {
+        "Sex": "Men",
+        "Race and ethnicity": "All",
+        "Median Earnings (USD)": "61,199",
+        "Occupation Group": "All Groups"
+      },
+      {
+        "Sex": "Women",
+        "Race and ethnicity": "All",
+        "Median Earnings (USD)": "51,216",
+        "Occupation Group": "All Groups"
+      },
+      {
+        "Sex": "Men",
+        "Race and ethnicity": "Black",
+        "Median Earnings (USD)": "70,968",
+        "Occupation Group": "Management, business, and financial"
+      },
+      {
+        "Sex": "Women",
+        "Race and ethnicity": "Black",
+        "Median Earnings (USD)": "65,553",
+        "Occupation Group": "Management, business, and financial"
+      },
+      {
+        "Sex": "Men",
+        "Race and ethnicity": "Asian",
+        "Median Earnings (USD)": "50,891",
+        "Occupation Group": "Nat resources and construction"
+      },
+      {
+        "Sex": "Women",
+        "Race and ethnicity": "Asian",
+        "Median Earnings (USD)": "N/A",
+        "Occupation Group": "Nat resources and construction"
+      }
+    ]
+  },
+  "transform": [
+    {
+      "calculate": "datum['Median Earnings (USD)'] === 'N/A' ? null : toNumber(replace(datum['Median Earnings (USD)'], ',', ''))",
+      "as": "earnings"
+    },
+    {
+      "filter": "datum.earnings !== null"
+    },
+    {
+      "calculate": "datum['Race and ethnicity'] + ' • ' + datum['Sex']",
+      "as": "group_label"
+    },
+    {
+      "calculate": "datum['Race and ethnicity'] + ' (' + datum['Occupation Group'] + ')'",
+      "as": "detail_label"
+    }
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "cornerRadiusEnd": 6
+      },
+      "encoding": {
+        "y": {
+          "field": "group_label",
+          "type": "nominal",
+          "sort": [
+            "Black • Men",
+            "Black • Women",
+            "All • Men",
+            "All • Women",
+            "Asian • Men"
+          ],
+          "title": null
+        },
+        "x": {
+          "field": "earnings",
+          "type": "quantitative",
+          "title": "Median earnings (USD)",
+          "scale": {
+            "domain": [
+              50000,
+              72000
+            ],
+            "zero": false
+          },
+          "axis": {
+            "format": "$,.0f"
+          }
+        },
+        "color": {
+          "field": "Sex",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Men",
+              "Women"
+            ],
+            "range": [
+              "#1f78b4",
+              "#e31a1c"
+            ]
+          },
+          "legend": {
+            "orient": "top"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "Sex",
+            "type": "nominal"
+          },
+          {
+            "field": "Race and ethnicity",
+            "type": "nominal"
+          },
+          {
+            "field": "Occupation Group",
+            "type": "nominal"
+          },
+          {
+            "field": "earnings",
+            "type": "quantitative",
+            "title": "Median earnings",
+            "format": "$,.0f"
+          }
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": 6,
+        "fontSize": 12
+      },
+      "encoding": {
+        "y": {
+          "field": "group_label",
+          "type": "nominal",
+          "sort": [
+            "Black • Men",
+            "Black • Women",
+            "All • Men",
+            "All • Women",
+            "Asian • Men"
+          ]
+        },
+        "x": {
+          "field": "earnings",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              50000,
+              72000
+            ],
+            "zero": false
+          }
+        },
+        "text": {
+          "field": "earnings",
+          "type": "quantitative",
+          "format": "$,.0f"
+        },
+        "detail": {
+          "field": "detail_label"
+        }
+      }
+    }
+  ],
+  "config": {
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 13
+    },
+    "legend": {
+      "titleFontSize": 12,
+      "labelFontSize": 12
+    }
+  }
+}
